@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+@import url("common.css");
+.clearIt {
+	clear:both; 
+}
+
+.ft_calculator_wrap {}
+
+.ft_tabs ul {
+	margin:0px;
+	padding:0px;
+	list-style:none; 
+	margin-left:14px;
+	width:100%;
+}
+
+.ft_tabs ul li {
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	display:inline;
+	margin-left:-4px;
+}
+.ft_tabs ul li a {
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:5px;
+	padding-right:5px;
+	margin-right:3px;
+	display:inline-block;
+	font-size:12px;
+	font-weight:bold;
+	border-radius:10px 10px 0px 0px;
+	color:#FFF; /*Will be in edting*/
+	background: -webkit-linear-gradient(#a04cf6, #a86ee4); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(#a04cf6, #a86ee4); /* For Opera 11.1 to 12.0 */
+  	background: -moz-linear-gradient(#a04cf6, #a86ee4); /* For Firefox 3.6 to 15 */
+  	background: linear-gradient(#a04cf6, #a86ee4); /* Standard syntax */
+	text-decoration:none;
+}
+.ft_tabs ul li a:hover {
+	background: -webkit-linear-gradient(#a86ee4, #a04cf6); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(#a86ee4, #a04cf6); /* For Opera 11.1 to 12.0 */
+  	background: -moz-linear-gradient(#a86ee4, #a04cf6); /* For Firefox 3.6 to 15 */
+  	background: linear-gradient(#a86ee4, #a04cf6); /* Standard syntax */
+}
+
+.ft_tabs .ui-tabs-panel {
+	border:5px solid #000000; 
+	border-radius:10px;
+	padding:10px;
+}
+
+.ft_tabs .ui-tabs-panel .ft-small-result {
+	text-align:center;
+}
+
+.ft_tabs .ui-tabs-panel .ft-small-result h3 {
+	 margin-top:10px;
+	 border-bottom:1px dotted #666;
+}
+.ft_tabs .ui-tabs-panel td input[type=text] {
+	text-align:right;
+	padding:0px; 
+	paddin-left:3px;
+	padding-right:3px;
+}
+.ft_grand_total {
+	margin-top:15px;
+	text-align:right;
+}
+.ft_grand_total h2 {
+	margin-bottom:10px;
+}
+.ft_grand_total table td, .ft_grand_total table th {
+	text-align:center;
+	border:1px solid #666 !important;
+	padding:5px;
+}
+.ft_calculator_wrap ul.ui-tabs-nav {
+	margin-left:12px; 
+}
+.results_cl {
+	margin-left:20px !important; 
+}

@@ -1,0 +1,1029 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bp-gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-28 03:30+0530\n"
+"PO-Revision-Date: 2012-01-28 03:31+0530\n"
+"Last-Translator: Brajesh Singh <brajesh@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery\n"
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/action-functions.php:68
+msgid "Media Update"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/action-functions.php:145
+msgid "Please fill the title."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/action-functions.php:175
+msgid "Gallery Created Successfully."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/action-functions.php:182
+msgid "Error in gallery creation."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/action-functions.php:214
+msgid "Server can not handle this much amount of data. Please upload a smaller file or ask your server administrator to change the settings."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/action-functions.php:223
+msgid "This file type is not allowed in current Gallery. You must upload a file which is "
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/action-functions.php:225
+msgid "You don't have sufficient permissions."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/action-functions.php:267
+msgid "There were problems saving your information."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/action-functions.php:274
+msgid "Media uploaded successfully"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/action-functions.php:286
+msgid "Published to activity stream successfully."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/action-functions.php:295
+msgid "Garr..."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/bp-gallery.php:128
+msgid "Search Gallery"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/bp-gallery.php:129
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/bp-gallery.php:345
+msgid "Gallery"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/bp-gallery.php:234
+#, php-format
+msgid "Gallery <span>%d</span>"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/bp-gallery.php:238
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/bp-gallery.php:287
+msgid "My Gallery"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/bp-gallery.php:239
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/bp-gallery.php:295
+msgid "Create a Gallery"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/bp-gallery.php:241
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/bp-gallery.php:300
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/edit.php:80
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/edit.php:114
+msgid "Upload"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/bp-gallery.php:271
+#, php-format
+msgid "Gallery <span class=\"count\">%s</span>"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/bp-gallery.php:345
+msgid "Gallery Settings"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/screen-functions.php:235
+msgid "Recent Gallery Updates"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/directory.php:8
+msgid "Gallery Directory"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/directory.php:18
+#, php-format
+msgid "All Galleries <span>%s</span>"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/directory.php:21
+#, php-format
+msgid "My Galleries <span>%s</span>"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/directory.php:23
+msgid "My Group Galleries"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/directory.php:31
+msgid "Filter By:"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/directory.php:32
+msgid "All Galleries"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/directory.php:35
+msgid "Photo Gallery"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/directory.php:38
+msgid "Audio Gallery"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/directory.php:41
+msgid "Video Gallery"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/gallery-loop.php:30
+#, php-format
+msgid "Created By %s"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/gallery-loop.php:36
+msgid "View"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/gallery-loop.php:54
+msgid "Sorry, no galleries were found."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/groups/single.php:17
+msgid "Edit This gallery"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/groups/single.php:39
+msgid "Perhaps! the Gallery does not exist or You don't have adequate permissions to view them."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/groups/home.php:25
+msgid "Edit"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/groups/home.php:25
+msgid "remove"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/edit.php:7
+#, php-format
+msgid "Back to %s"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/edit.php:12
+#, php-format
+msgid "You have <strong>%s</strong> unpublished %s"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/edit.php:14
+msgid "Publish Them to activity now"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/edit.php:14
+msgid "or"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/edit.php:14
+msgid "Hide This Notice"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/edit.php:44
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/edit.php:53
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/edit.php:76
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/edit.php:107
+msgid "Save"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/edit.php:66
+msgid "Set Cover"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/edit.php:79
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/edit.php:113
+msgid "You have not uploaded anything yet, Upload Now."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/edit.php:138
+msgid "Upload & Save Cover"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/create-form.php:3
+msgid "Create a"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/create-form.php:5
+msgid "Gallery Title"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/create-form.php:7
+msgid "Description"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/create-form.php:12
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/add-from-web.php:17
+msgid "Visibility"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/create-form.php:13
+msgid "Save Gallery"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/activity.php:31
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/activity.php:29
+msgid "Load More"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/activity.php:42
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/activity.php:42
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/video-single.php:32
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/single.php:25
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/audio-single.php:32
+msgid "This is a private media and you don't have adequate permissions to view it."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/video-single.php:38
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/single.php:31
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/audio-single.php:38
+msgid "Sorry, but we don't have anything here :(."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/video-loop.php:23
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/photo-loop.php:16
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/audio-loop.php:22
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/media-loop.php:12
+msgid "comments"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/video-loop.php:25
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/photo-loop.php:18
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/audio-loop.php:24
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/media-loop.php:14
+msgid "edit"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/video-loop.php:56
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/photo-loop.php:39
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/audio-loop.php:55
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/media-loop.php:35
+msgid ":( we don't have anything here."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/post-form.php:14
+#, php-format
+msgid "Wanna Say something %s?"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/post-form.php:26
+msgid "Comment"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/add-from-web.php:18
+#, php-format
+msgid "Please enter a Url from %s  and click add"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/add-from-web.php:20
+msgid "Add"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/upload-form.php:36
+#, php-format
+msgid "You can upload any file of type %s. The maximum file size should not exceed %s ."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/upload-form.php:37
+msgid "Upload & Save"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/activity-entry.php:15
+msgid "Comments"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/activity-entry.php:20
+msgid "Mark as Favorite"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/activity-entry.php:20
+msgid "Favorite"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/activity-entry.php:22
+msgid "Remove Favorite"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/activity-entry.php:32
+msgid "In reply to"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/activity-entry.php:33
+msgid "View Thread / Permalink"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/activity-entry.php:50
+msgid "Post"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/single/media/activity-entry.php:50
+msgid "or press esc to cancel."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/members/single.php:31
+#, php-format
+msgid "This is a %s Gallery and You don't have adequate permissions to view them."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/gallery/members/home.php:24
+msgid "delete"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/css-js.php:64
+msgid "Are You sure? You will lose all the comments and the media permanently!"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/css-js.php:65
+msgid "Are You sure? You will lose all the media/comments!"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:24
+msgid "You don't have permissions to create gallery."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:173
+msgid "Gallery Title Can not be left Blank"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:190
+msgid "Gallery created successfully."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:194
+msgid "Some Error Occured. Please Try again."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:199
+msgid "You don't have sufficient permission to create gallery."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:217
+#, php-format
+msgid "You deleted the Gallery %s"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:221
+#, php-format
+msgid "There Was a problem deleting the Gallery %s"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:225
+#, php-format
+msgid "You don't have sufficient permissions to delete the Gallery %s "
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:262
+msgid "Updated The Cover."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:266
+msgid "Could not update the Cover."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:290
+msgid "Gallery Title can not be empty!"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:300
+msgid "Gallery updated successfully"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:305
+msgid "You don't have permission to perform this operation"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:330
+msgid "Unable to update order.Some problem occured, please try again later."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:335
+msgid "Updated Order."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:338
+msgid "Sorry! You don't have sufficient permission to do this."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:488
+#, php-format
+msgid "You deleted the media %s"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:492
+#, php-format
+msgid "There Was a problem deleting the media %s"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:496
+#, php-format
+msgid "You don't have sufficient permission to delete the media %s"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:527
+msgid "Media updated successfully"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:532
+msgid "Some error occured"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:535
+#, php-format
+msgid "You don't have sufficient permission to edit this media %s"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:570
+msgid "Updated!"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:573
+msgid "You don't have sufficient permission to do this."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:599
+#, php-format
+msgid "Invalid Url. You must enere a url from %s "
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:640
+msgid "The url is invalid!"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:658
+msgid "Please enter some content to post."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:692
+msgid "Media removed from activity publishing queue."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:697
+msgid "Sorry!, You don't have the permission."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:727
+#, php-format
+msgid "%s uploaded a %s to %s"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:865
+#, php-format
+msgid "%s received comments on their %s "
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/inc/ajax.php:878
+#, php-format
+msgid "%s commented on gallery %s "
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:18
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:96
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/ext/groups/template-tags.php:31
+msgid "Photo"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:20
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/ext/groups/template-tags.php:35
+msgid "Video"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:22
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:98
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/ext/groups/template-tags.php:39
+msgid "Audio"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:76
+msgid "Settings Updated."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:91
+msgid "General Settings"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:94
+msgid "Allowed Gallery Types"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:97
+msgid "Videos"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:99
+msgid "Use this to enable/disable a gallery type.eg. uncheck audio to disable audio gallery creation."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:104
+msgid "Maximum upload space per User"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:108
+msgid "Maximum upload space per Group"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:113
+msgid "Max upload file size for media"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:119
+msgid "Enable Uploads from Activity Stream."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:121
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:129
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:137
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:150
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:158
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:166
+msgid "Yes"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:122
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:130
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:138
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:151
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:159
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:167
+msgid "No"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:127
+msgid "Automatic Publishing to activity settings"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:135
+msgid "Activity publishing(bulk publishing or individual media publishing)"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:143
+msgid "How many items to be published to activity(If bulk publishing is enabled)"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:148
+msgid "Enable Debug Mode"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:156
+msgid "Enable Flash Uploader"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:164
+msgid "Show Available upload space to Users"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:175
+msgid "Image sizes"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:176
+msgid "The sizes listed below determine the maximum dimensions in pixels to use to resize images when uploading Image to gallery."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:180
+msgid "Thumbnail size"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:182
+msgid "Width"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:184
+msgid "Height"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:190
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:191
+msgid "Medium size"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:192
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:203
+msgid "Max Width"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:194
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:205
+msgid "Max Height"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:201
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/admin/admin.php:202
+msgid "Large size"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/ext/groups/main.php:35
+msgid "Group Galleries"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/ext/groups/main.php:123
+msgid "Disable Gallery"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/ext/groups/template-tags.php:25
+msgid "Galleries"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/ext/groups/template-tags.php:27
+msgid "Create Gallery"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/filters.php:156
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/filters.php:163
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/business-functions.php:248
+msgid "Public"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/filters.php:156
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/filters.php:163
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/filters.php:165
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/business-functions.php:248
+msgid "Private"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/filters.php:158
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/business-functions.php:248
+msgid "Friends Only"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/filters.php:218
+msgid "The activity of galleries."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/filters.php:219
+#, php-format
+msgid "My Galleries <span>%d</span>"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:19
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:54
+msgid "Sitewide Galleries"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:62
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:151
+msgid "Title:"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:64
+msgid "How Many Galleries"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:69
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:158
+msgid "Filter Type"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:71
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:160
+msgid "All Types"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:72
+msgid "Audio Galleries Only"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:73
+msgid "Video Galleries Only"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:74
+msgid "Photo Galleries Only"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:78
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:167
+msgid "Order By"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:80
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:169
+msgid "Upload date"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:82
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:171
+msgid "Random"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:86
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:175
+msgid "Sort Order"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:88
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:177
+msgid "Ascending"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:89
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:178
+msgid "Descending"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:95
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:184
+msgid "Show Thumbnail"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:108
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:143
+msgid "Sitewide Media"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:153
+msgid "How Many"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:161
+msgid "Only Audio"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:162
+msgid "Only Video"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:163
+msgid "Only Photo"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/widgets.php:170
+msgid "Media Title"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/activity-functions.php:37
+msgid "Disabled"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/activity-functions.php:150
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/activity-functions.php:223
+#, php-format
+msgid "%s uploaded %d %s to %s"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/activity-functions.php:259
+#, php-format
+msgid "%s uploaded %s %s to %s"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/business-functions.php:104
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/members/classes.php:116
+msgid "Gallery Admin"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/business-functions.php:278
+msgid "Photos"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/business-functions.php:278
+msgid "Audios"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:256
+msgid "Previous"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:256
+msgid "Next"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:622
+#, php-format
+msgid "Viewing gallery %d to %d (of %d galleries)"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:832
+#, php-format
+msgid "There is no %s yet."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:834
+msgid "There are no galleries yet."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:875
+msgid "My Galleries"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:907
+msgid "Edit Media"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:912
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:923
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:937
+msgid "Add from Web"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:914
+msgid "Organize Media"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:915
+msgid "Edit Info"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:916
+msgid "Cover Upload"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:917
+msgid "Delete"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:948
+msgid "upload"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:950
+msgid "add media"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:1082
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:1088
+msgid "Search anything..."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:1089
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/gallery/template-tags.php:1102
+msgid "Search"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/members/template-tags.php:203
+#, php-format
+msgid "joined %s ago"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/members/template-tags.php:251
+#, php-format
+msgid "Viewing members %d to %d (of %d members)"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/members/classes.php:109
+msgid "Gallery Mod"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/members/classes.php:122
+msgid "Gallery Contributor"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:18
+msgid "Great! the file uploaded successfully!"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:19
+msgid "Your file size was bigger than the maximum allowed file size of: "
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:20
+msgid "Your file was bigger than the maximum allowed file size of: "
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:21
+msgid "The uploaded file was only partially uploaded"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:22
+msgid "No file was uploaded"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:23
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:58
+msgid "Your Quota Has exceeded."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:69
+msgid "The uploaded file exceeds the <code>upload_max_filesize</code> directive in <code>php.ini</code>."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:70
+msgid "The uploaded file exceeds the <em>MAX_FILE_SIZE</em> directive that was specified in the HTML form."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:71
+msgid "The uploaded file was only partially uploaded."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:72
+msgid "No file was uploaded."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:74
+msgid "Missing a temporary folder."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:75
+msgid "Failed to write file to disk."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:76
+msgid "File upload stopped by extension."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:96
+msgid "File is empty. Please upload something more substantial."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:100
+msgid "Specified file failed upload test."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:129
+msgid "The uploaded file could not be moved to the upload folder."
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:181
+#, php-format
+msgid "There was an error uploading the file. Error details:%s "
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:185
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:248
+#, php-format
+msgid "The file you uploaded is too big. Please upload a file under %s"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:190
+#, php-format
+msgid "Please upload only %s"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:197
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:261
+#, php-format
+msgid "Upload Failed! Error was: %s"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:213
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:276
+msgid "There was an error while uploading file. No file uploaded"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:244
+msgid "There was an error uploading the file.Error details: "
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload-processing.php:254
+msgid "Please upload only "
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/space.php:114
+msgid "GB"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/space.php:116
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/space.php:146
+msgid "MB"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/space.php:119
+#, php-format
+msgid "You have <span> %1s%%</span> of your %2s space left"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/space.php:143
+msgid "Storage Space"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/space.php:147
+msgid "Space Allowed"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/space.php:151
+msgid "Space Used"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/upload-helper/upload.php:59
+#, php-format
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/media/template-tags.php:209
+#, php-format
+msgid "Viewing media %d to %d (of %d medias)"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/media/template-tags.php:210
+msgid "Loading"
+msgstr ""
+
+#: /var/www/bp/1.5/dev/wp-content/plugins/bp-gallery/core/media/template-tags.php:637
+msgid "Visibility "
+msgstr ""
+

@@ -1,0 +1,1272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bp Gallery v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-12-13 16:45-0500\n"
+"Last-Translator: Claude Gagné <claude.gagne@clubphoto-beauce.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ bp-gallery
+#: action-functions.php:68
+msgid "Media Update"
+msgstr "Mise à jour du média"
+
+#@ bp-gallery
+#: action-functions.php:145
+msgid "Please fill the title."
+msgstr "S'il vous plaît remplir le titre."
+
+#@ bp-gallery
+#: action-functions.php:175
+msgid "Gallery Created Successfully."
+msgstr "Galerie créé avec succès."
+
+#@ bp-gallery
+#: action-functions.php:182
+msgid "Error in gallery creation."
+msgstr "Erreur dans la création de la galerie."
+
+#@ bp-gallery
+#: action-functions.php:214
+#: inc/ajax.php:375
+#: inc/ajax.php:922
+msgid "Server can not handle this much amount of data. Please upload a smaller file or ask your server administrator to change the settings."
+msgstr "Le serveur ne peut pas traiter cette quantité de données. S'il vous plaît téléchargé un fichier plus petit ou demandez à votre administrateur du serveur pour modifier les paramètres."
+
+#@ bp-gallery
+#: action-functions.php:225
+#: inc/ajax.php:386
+#: inc/ajax.php:928
+msgid "You don't have sufficient permissions."
+msgstr "Vous n'avez pas les autorisations suffisantes."
+
+#@ bp-gallery
+#: action-functions.php:267
+#: inc/ajax.php:297
+#: inc/ajax.php:429
+#: inc/ajax.php:602
+#: inc/ajax.php:964
+msgid "There were problems saving your information."
+msgstr "Il y a eu  des problèmes pour enregistrer vos informations."
+
+#@ bp-gallery
+#: action-functions.php:274
+#: inc/ajax.php:436
+#: inc/ajax.php:969
+msgid "Media uploaded successfully"
+msgstr "Media transféré avec succès"
+
+#@ default
+#@ bp-gallery
+#: action-functions.php:290
+#: inc/ajax.php:452
+#: inc/ajax.php:977
+msgid "Garr..."
+msgstr "Garr ..."
+
+#@ bp-gallery
+#: admin/admin.php:18
+#: admin/admin.php:95
+#: core/gallery/business-functions.php:272
+#: core/gallery/template-tags.php:881
+#: ext/groups/template-tags.php:30
+msgid "Photo"
+msgstr "Photo"
+
+#@ bp-gallery
+#: admin/admin.php:20
+#: core/gallery/business-functions.php:272
+#: core/gallery/template-tags.php:884
+#: ext/groups/template-tags.php:34
+msgid "Video"
+msgstr "Vidéo"
+
+#@ bp-gallery
+#: admin/admin.php:22
+#: admin/admin.php:97
+#: core/gallery/business-functions.php:272
+#: core/gallery/template-tags.php:887
+#: ext/groups/template-tags.php:38
+msgid "Audio"
+msgstr "Audio"
+
+#@ bp-gallery
+#: admin/admin.php:75
+msgid "Settings Updated."
+msgstr "Les préférences ont été mise à jour."
+
+#@ bp-gallery
+#: admin/admin.php:88
+#: bp-gallery.php:284
+msgid "Gallery Settings"
+msgstr "Paramètres de la galerie "
+
+#@ bp-gallery
+#: admin/admin.php:90
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+#@ bp-gallery
+#: admin/admin.php:93
+msgid "Allowed Gallery Types"
+msgstr "Types de galerie admise"
+
+#@ bp-gallery
+#: admin/admin.php:96
+#: core/gallery/business-functions.php:278
+msgid "Videos"
+msgstr "Vidéos"
+
+#@ bp-gallery
+#: admin/admin.php:98
+msgid "Use this to enable/disable a gallery type.eg. uncheck audio to disable audio gallery creation."
+msgstr "Utilisez cette option pour activer / désactiver un type de galerie .i.e. décochez audio pour désactiver  la création de galerie  audio."
+
+#@ bp-gallery
+#: admin/admin.php:103
+msgid "Maximum upload space per User"
+msgstr "Espace maximum de téléchargement alloué  à chaque utilisateur "
+
+#@ bp-gallery
+#: admin/admin.php:107
+msgid "Maximum upload space per Group"
+msgstr "Espace maximum de téléchargement alloué  à chaque groupe"
+
+#@ bp-gallery
+#: admin/admin.php:112
+msgid "Max upload file size for media"
+msgstr "Taille maximale de fichier pour les médias"
+
+#@ bp-gallery
+#: admin/admin.php:117
+msgid "Enable Gallery Directory Link in Nav."
+msgstr "Activer le répertoire des galeries dans la barre de navigation"
+
+#@ bp-gallery
+#: admin/admin.php:119
+#: admin/admin.php:127
+#: admin/admin.php:135
+#: admin/admin.php:143
+#: admin/admin.php:156
+#: admin/admin.php:164
+#: admin/admin.php:172
+msgid "Yes"
+msgstr "Oui"
+
+#@ bp-gallery
+#: admin/admin.php:120
+#: admin/admin.php:128
+#: admin/admin.php:136
+#: admin/admin.php:144
+#: admin/admin.php:157
+#: admin/admin.php:165
+#: admin/admin.php:173
+msgid "No"
+msgstr "Non"
+
+#@ bp-gallery
+#: admin/admin.php:125
+msgid "Enable Uploads from Activity Stream."
+msgstr "Activer le téléchargement à partir  de la page  d'activité."
+
+#@ bp-gallery
+#: admin/admin.php:133
+msgid "Automatic Publishing to activity settings"
+msgstr "Publication automatique sur la page des activités"
+
+#@ bp-gallery
+#: admin/admin.php:141
+msgid "Activity publishing(bulk publishing or individual media publishing)"
+msgstr "Publication dans les activités (publication en vrac ou publication individuel des médias)"
+
+#@ bp-gallery
+#: admin/admin.php:149
+msgid "How many items to be published to activity(If bulk publishing is enabled)"
+msgstr "Combien de médias à publier sur la page d'activité (Lorsque la publication en vrac est activé)"
+
+#@ bp-gallery
+#: admin/admin.php:154
+msgid "Enable Debug Mode"
+msgstr "Activer le mode debug"
+
+#@ bp-gallery
+#: admin/admin.php:162
+msgid "Enable Flash Uploader"
+msgstr "Activer le téléchargement en Flash "
+
+#@ bp-gallery
+#: admin/admin.php:170
+msgid "Show Available upload space to Users"
+msgstr "Afficher l'espace de téléchargement disponible pour les utilisateurs "
+
+#@ bp-gallery
+#: admin/admin.php:181
+msgid "Image sizes"
+msgstr "Les tailles d'image"
+
+#@ bp-gallery
+#: admin/admin.php:182
+msgid "The sizes listed below determine the maximum dimensions in pixels to use to resize images when uploading Image to gallery."
+msgstr "Les tailles ci-dessous déterminent les dimensions maximales en pixels à utiliser pour redimensionner vos images avant le téléchargement "
+
+#@ bp-gallery
+#: admin/admin.php:186
+msgid "Thumbnail size"
+msgstr "Taille des miniatures"
+
+#@ bp-gallery
+#: admin/admin.php:188
+msgid "Width"
+msgstr "Largeur"
+
+#@ bp-gallery
+#: admin/admin.php:190
+msgid "Height"
+msgstr "Hauteur"
+
+#@ bp-gallery
+#@ default
+#: admin/admin.php:196
+#: admin/admin.php:197
+msgid "Medium size"
+msgstr "Taille moyenne"
+
+#@ bp-gallery
+#: admin/admin.php:198
+#: admin/admin.php:209
+msgid "Max Width"
+msgstr "Largeur maximum"
+
+#@ bp-gallery
+#: admin/admin.php:200
+#: admin/admin.php:211
+msgid "Max Height"
+msgstr "Hauteur maximum"
+
+#@ default
+#@ bp-gallery
+#: admin/admin.php:207
+#: admin/admin.php:208
+msgid "Large size"
+msgstr "Grande taille"
+
+#@ bp-gallery
+#: admin/admin.php:222
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
+
+#@ bp-gallery
+#: bp-gallery.php:231
+#, php-format
+msgid "Gallery <span>(%d)</span>"
+msgstr "Galerie <span>(%d)</span>"
+
+#@ bp-gallery
+#: bp-gallery.php:235
+msgid "My Gallery"
+msgstr "Ma galerie"
+
+#@ bp-gallery
+#: bp-gallery.php:236
+msgid "Create a Gallery"
+msgstr "Créer une galerie"
+
+#@ bp-gallery
+#@ default
+#: bp-gallery.php:238
+#: core/gallery/template-tags.php:907
+#: core/gallery/template-tags.php:918
+#: core/media/template-tags.php:535
+#: gallery/groups/single.php:20
+#: gallery/members/single.php:18
+#: gallery/single/edit.php:79
+#: gallery/single/edit.php:113
+msgid "Upload"
+msgstr "Télécharger"
+
+#@ bp-gallery
+#: bp-gallery.php:284
+#: core/activity-functions.php:373
+#: core/gallery/template-tags.php:845
+#: core/gallery/template-tags.php:848
+#: core/gallery/template-tags.php:851
+#: core/gallery/template-tags.php:976
+#: core/gallery/template-tags.php:1049
+msgid "Gallery"
+msgstr "Galerie"
+
+#@ bp-gallery
+#: core/activity-functions.php:37
+msgid "Disabled"
+msgstr "Désactivé"
+
+#@ bp-gallery
+#: core/activity-functions.php:150
+#: core/activity-functions.php:223
+#, php-format
+msgid "%s uploaded %d %s to %s"
+msgstr "%s transféré %d %s à %s"
+
+#@ bp-gallery
+#: core/activity-functions.php:259
+#, php-format
+msgid "%s uploaded %s %s to %s"
+msgstr "%s transféré %s %s à %s"
+
+#@ bp-gallery
+#: core/activity-functions.php:339
+#: inc/ajax.php:674
+msgid "Published to activity stream successfully."
+msgstr "Publié sur la page d'activité avec succès."
+
+#@ bp-gallery
+#: core/filters.php:154
+#: core/filters.php:159
+#: core/gallery/business-functions.php:248
+msgid "Public"
+msgstr "Publique"
+
+#@ bp-gallery
+#: core/filters.php:154
+#: core/filters.php:159
+#: core/gallery/business-functions.php:248
+msgid "Private"
+msgstr "Privé"
+
+#@ bp-gallery
+#: core/filters.php:156
+#: core/gallery/business-functions.php:248
+msgid "Friends Only"
+msgstr "Amis seulement"
+
+#@ bp-gallery
+#: core/filters.php:209
+msgid "The activity of galleries."
+msgstr "L'activité des galeries."
+
+#@ bp-gallery
+#: core/filters.php:210
+#: core/gallery/template-tags.php:873
+msgid "My Galleries"
+msgstr "Mes Galeries"
+
+#@ bp-gallery
+#: core/gallery/business-functions.php:104
+#: core/members/classes.php:116
+msgid "Gallery Admin"
+msgstr "Administration des galeries"
+
+#@ bp-gallery
+#: core/gallery/business-functions.php:278
+msgid "Photos"
+msgstr "Photos"
+
+#@ bp-gallery
+#: core/gallery/business-functions.php:278
+msgid "Audios"
+msgstr "Audios"
+
+#@ bp-gallery
+#: core/gallery/template-tags.php:255
+#: core/media/template-tags.php:242
+msgid "Previous"
+msgstr "Précédent"
+
+#@ bp-gallery
+#: core/gallery/template-tags.php:255
+#: core/media/template-tags.php:242
+msgid "Next"
+msgstr "Suivant"
+
+#@ bp-gallery
+#: core/gallery/template-tags.php:621
+#, php-format
+msgid "Viewing gallery %d to %d (of %d galleries)"
+msgstr "Affichage galerie %d à %d (de %d galeries)"
+
+#@ bp-gallery
+#: core/gallery/template-tags.php:831
+#, php-format
+msgid "There is no %s yet."
+msgstr "Il n'y a pas de %s pour le moment."
+
+#@ bp-gallery
+#: core/gallery/template-tags.php:833
+msgid "There are no galleries yet."
+msgstr "Il n'y a pas encore de galeries."
+
+#@ bp-gallery
+#: core/gallery/template-tags.php:877
+#: ext/groups/template-tags.php:26
+msgid "Create Gallery"
+msgstr "Créer une galerie"
+
+#@ bp-gallery
+#: core/gallery/template-tags.php:905
+msgid "Edit Media"
+msgstr "Modifier les médias"
+
+#@ bp-gallery
+#: core/gallery/template-tags.php:910
+#: core/gallery/template-tags.php:921
+msgid "Add from Web"
+msgstr "Ajouter à partir du Web"
+
+#@ bp-gallery
+#: core/gallery/template-tags.php:912
+msgid "Organize Media"
+msgstr "Organiser les médias"
+
+#@ bp-gallery
+#: core/gallery/template-tags.php:913
+msgid "Edit Info"
+msgstr "Modifier les infos"
+
+#@ bp-gallery
+#: core/gallery/template-tags.php:914
+msgid "Cover Upload"
+msgstr "Télécharger une couverture "
+
+#@ bp-gallery
+#: core/gallery/template-tags.php:915
+msgid "Delete"
+msgstr "Supprimer"
+
+#@ bp-gallery
+#: core/gallery/template-tags.php:1058
+#: core/gallery/template-tags.php:1064
+msgid "Search anything..."
+msgstr "Rechercher dans n'importe quels médias ..."
+
+#@ bp-gallery
+#: core/gallery/template-tags.php:1065
+msgid "Search"
+msgstr "Rechercher"
+
+#@ bp-gallery
+#: core/media/template-tags.php:209
+#, php-format
+msgid "Viewing media %d to %d (of %d medias)"
+msgstr "Affichage d'un media %d à %d (de %d médias)"
+
+#@ bp-gallery
+#: core/media/template-tags.php:210
+msgid "Loading"
+msgstr "Chargement"
+
+#@ bp-gallery
+#: core/media/template-tags.php:635
+msgid "Visibility "
+msgstr "Visibilité"
+
+#@ bp-gallery
+#: core/media/template-tags.php:639
+#: gallery/single/edit.php:44
+#: gallery/single/edit.php:53
+#: gallery/single/edit.php:75
+#: gallery/single/edit.php:106
+#: gallery/single/media/edit-media.php:34
+msgid "Save"
+msgstr "Enregistrer"
+
+#@ bp-gallery
+#: core/members/classes.php:109
+msgid "Gallery Mod"
+msgstr "Modification de la galerie "
+
+#@ bp-gallery
+#: core/members/classes.php:122
+msgid "Gallery Contributor"
+msgstr "Contributeur de la galerie "
+
+#@ buddypress
+#: core/members/template-tags.php:203
+#, php-format
+msgid "joined %s ago"
+msgstr "a rejoint il y a %s"
+
+#@ buddypress
+#: core/members/template-tags.php:251
+#, php-format
+msgid "Viewing members %d to %d (of %d members)"
+msgstr "Voir les membres %d à %d (de %d membres)"
+
+#@ default
+#: core/upload-helper/space.php:99
+msgid "GB"
+msgstr "GB"
+
+#@ default
+#: core/upload-helper/space.php:101
+#: core/upload-helper/space.php:131
+msgid "MB"
+msgstr "MB"
+
+#@ bp-gallery
+#: core/upload-helper/space.php:104
+#, php-format
+msgid "You have <span> %1s%%</span> of your %2s space left"
+msgstr "Il vous reste <span> %1s%%</span> de votre espace de %2s"
+
+#@ default
+#: core/upload-helper/space.php:128
+msgid "Storage Space"
+msgstr "Espace dee stokage"
+
+#@ default
+#: core/upload-helper/space.php:132
+msgid "Space Allowed"
+msgstr "Espace allouée"
+
+#@ default
+#: core/upload-helper/space.php:136
+msgid "Space Used"
+msgstr "Espace utilisée"
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:18
+msgid "Great! the file uploaded successfully!"
+msgstr "Super! le fichier s'est téléchargé avec succès!"
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:19
+msgid "Your file size was bigger than the maximum allowed file size of: "
+msgstr "Votre fichier est trop grand, la taille maximale permise est de:"
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:20
+msgid "Your file was bigger than the maximum allowed file size of: "
+msgstr "Votre fichier était plus grand que la taille maximale permise de:"
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:21
+msgid "The uploaded file was only partially uploaded"
+msgstr "Le fichier n'a été que partiellement téléchargé"
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:22
+msgid "No file was uploaded"
+msgstr "Aucun fichier n'a été transféré"
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:23
+msgid "Missing a temporary folder"
+msgstr "Il manque un dossier temporaire"
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:58
+msgid "Your Quota Has exceeded."
+msgstr "Vous avez dépassé votre quota"
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:69
+msgid "The uploaded file exceeds the <code>upload_max_filesize</code> directive in <code>php.ini</code>."
+msgstr "Le fichier téléchargé excède la directive <code>upload_max_filesize</code>  dans <code>php.ini</code>."
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:70
+msgid "The uploaded file exceeds the <em>MAX_FILE_SIZE</em> directive that was specified in the HTML form."
+msgstr "Le fichier téléchargé excède la directive <em>MAX_FILE_SIZE</em> qui a été spécifié dans le formulaire HTML."
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:71
+msgid "The uploaded file was only partially uploaded."
+msgstr "Le fichier n'a été que partiellement téléchargé."
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:72
+msgid "No file was uploaded."
+msgstr "Aucun fichier n'a été téléchargé."
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:74
+msgid "Missing a temporary folder."
+msgstr "Il manque un dossier temporaire."
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:75
+msgid "Failed to write file to disk."
+msgstr "Impossible d'écrire le fichier sur le disque."
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:76
+msgid "File upload stopped by extension."
+msgstr "Le téléchargement du fichier fût arrêté dû à une extension non prise en charge."
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:96
+msgid "File is empty. Please upload something more substantial."
+msgstr "Le fichier est vide. S'il vous plaît télécharger quelque chose de plus substantiel."
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:100
+msgid "Specified file failed upload test."
+msgstr "Le fichier spécifié a échoué le test d'envoi."
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:129
+msgid "The uploaded file could not be moved to the upload folder."
+msgstr "Le fichier téléchargé n'a  pu être déplacé vers le dossier de téléchargement."
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:181
+#, php-format
+msgid "There was an error uploading the file. Error details:%s "
+msgstr "Il y a eu un problème lors du chargement du fichier. Détails de l'erreur: %s"
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:185
+#: core/upload-helper/upload-processing.php:248
+#, php-format
+msgid "The file you uploaded is too big. Please upload a file under %s"
+msgstr "Le fichier que vous avez téléchargé est trop grand. S'il vous plaît télécharger un fichier sous %s"
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:190
+#, php-format
+msgid "Please upload only %s"
+msgstr "S'il vous plaît télécharger seulement %s"
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:197
+#: core/upload-helper/upload-processing.php:261
+#, php-format
+msgid "Upload Failed! Error was: %s"
+msgstr "Échec du transfert! Erreur:%s"
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:213
+#: core/upload-helper/upload-processing.php:276
+msgid "There was an error while uploading file. No file uploaded"
+msgstr "Il y a eu une erreur lors du téléchargement du fichier. Aucun fichier téléchargé"
+
+#@ bp-gallery
+#: core/upload-helper/upload-processing.php:244
+msgid "There was an error uploading the file.Error details: fileerror"
+msgstr "Il y a eu un problème lors du chargement.  Les détails de l'erreur: erreur de fichier"
+
+#@ bp-gallery
+#: core/upload-helper/upload.php:59
+#, php-format
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "Impossible de créer le répertoire %s. Est-ce que son répertoire parent  est accessible en écriture par le serveur?"
+
+#@ bp-gallery
+#: core/widgets.php:19
+#: core/widgets.php:54
+msgid "Sitewide Galleries"
+msgstr "Galeries du site"
+
+#@ bp-gallery
+#: core/widgets.php:62
+#: core/widgets.php:151
+msgid "Title:"
+msgstr "Titre:"
+
+#@ bp-gallery
+#: core/widgets.php:64
+msgid "How Many Galleries"
+msgstr "Combien de galeries"
+
+#@ bp-gallery
+#: core/widgets.php:69
+#: core/widgets.php:158
+msgid "Filter Type"
+msgstr "Type de filtre"
+
+#@ bp-gallery
+#: core/widgets.php:71
+#: core/widgets.php:160
+msgid "All Types"
+msgstr "Tous les types"
+
+#@ bp-gallery
+#: core/widgets.php:72
+msgid "Audio Galleries Only"
+msgstr "Galeries Audio seulement"
+
+#@ bp-gallery
+#: core/widgets.php:73
+msgid "Video Galleries Only"
+msgstr "Galeries Vidéo seulement"
+
+#@ bp-gallery
+#: core/widgets.php:74
+msgid "Photo Galleries Only"
+msgstr "Galeries de photos seulement"
+
+#@ bp-gallery
+#: core/widgets.php:78
+#: core/widgets.php:167
+msgid "Order By"
+msgstr "Trier par"
+
+#@ bp-gallery
+#: core/widgets.php:80
+#: core/widgets.php:169
+msgid "Upload date"
+msgstr "Date de téléchargement"
+
+#@ bp-gallery
+#: core/widgets.php:81
+#: gallery/single/create-form.php:5
+msgid "Gallery Title"
+msgstr "Titre de la galerie "
+
+#@ bp-gallery
+#: core/widgets.php:82
+#: core/widgets.php:171
+msgid "Random"
+msgstr "Au hasard"
+
+#@ bp-gallery
+#: core/widgets.php:86
+#: core/widgets.php:175
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+#@ bp-gallery
+#: core/widgets.php:88
+#: core/widgets.php:177
+msgid "Ascending"
+msgstr "Ascendant"
+
+#@ bp-gallery
+#: core/widgets.php:89
+#: core/widgets.php:178
+msgid "Descending"
+msgstr "Descendant"
+
+#@ bp-gallery
+#: core/widgets.php:95
+#: core/widgets.php:184
+msgid "Show Thumbnail"
+msgstr "Voir la vignette"
+
+#@ bp-gallery
+#: core/widgets.php:108
+#: core/widgets.php:143
+msgid "Sitewide Media"
+msgstr "Media  du site"
+
+#@ bp-gallery
+#: core/widgets.php:153
+msgid "How Many"
+msgstr "Combien"
+
+#@ bp-gallery
+#: core/widgets.php:161
+msgid "Only Audio"
+msgstr "Audio seulement"
+
+#@ bp-gallery
+#: core/widgets.php:162
+msgid "Only Video"
+msgstr "Vidéo seulement"
+
+#@ bp-gallery
+#: core/widgets.php:163
+msgid "Only Photo"
+msgstr "Photo seulement"
+
+#@ bp-gallery
+#: core/widgets.php:170
+msgid "Media Title"
+msgstr "Titre du média"
+
+#@ bp-gallery
+#: ext/groups/main.php:28
+msgid "Group Galleries"
+msgstr "Galeries de groupe"
+
+#@ bp-gallery
+#: ext/groups/main.php:30
+#, php-format
+msgid "Gallery (%d)"
+msgstr "Galerie (%d)"
+
+#@ bp-gallery
+#: ext/groups/main.php:109
+msgid "Disable Gallery"
+msgstr "Désactiver la galerie"
+
+#@ bp-gallery
+#: ext/groups/template-tags.php:24
+msgid "Galleries"
+msgstr "Galeries"
+
+#@ bp-gallery
+#: gallery/directory.php:8
+msgid "Gallery Directory"
+msgstr "Répertoire des galeries"
+
+#@ bp-gallery
+#: gallery/directory.php:18
+#, php-format
+msgid "All Galleries (%s)"
+msgstr "Toutes les galeries (%s)"
+
+#@ bp-gallery
+#: gallery/directory.php:21
+#, php-format
+msgid "My Galleries (%s)"
+msgstr "Mes galeries (%s)"
+
+#@ bp-gallery
+#: gallery/directory.php:22
+msgid "My Group Galleries"
+msgstr "Mes galeries de groupe"
+
+#@ bp-gallery
+#: gallery/directory.php:29
+msgid "Filter By:"
+msgstr "Filtrer par:"
+
+#@ bp-gallery
+#: gallery/directory.php:30
+msgid "All Galleries"
+msgstr "Toutes les galeries"
+
+#@ bp-gallery
+#: gallery/directory.php:31
+msgid "Photo Gallery"
+msgstr "Galerie de photos"
+
+#@ bp-gallery
+#: gallery/directory.php:32
+msgid "Audio Gallery"
+msgstr "Galerie audio "
+
+#@ bp-gallery
+#: gallery/directory.php:33
+msgid "Video Gallery"
+msgstr "Galerie vidéo"
+
+#@ bp-gallery
+#: gallery/gallery-loop.php:54
+msgid "Sorry, no galleries were found."
+msgstr "Désolé, pas trouvé de galeries  ."
+
+#@ bp-gallery
+#: gallery/groups/single.php:17
+#: gallery/members/single.php:18
+msgid "Edit This gallery"
+msgstr "Modifier cette galerie"
+
+#@ default
+#@ bp-gallery
+#: gallery/groups/single.php:39
+#: gallery/members/single.php:42
+msgid "Perhaps! the Gallery does not exist or You don't have adequate permissions to view them."
+msgstr "Peut-être! la galerie n'existe pas ou vous ne disposez pas des autorisations adéquates pour la visualiser."
+
+#@ bp-gallery
+#: gallery/members/home.php:24
+msgid "upload"
+msgstr "télécharger"
+
+#@ bp-gallery
+#: gallery/members/home.php:24
+msgid "Edit"
+msgstr "Modifier"
+
+#@ bp-gallery
+#: gallery/members/home.php:24
+msgid "delete"
+msgstr "supprimer"
+
+#@ bp-gallery
+#: gallery/members/single.php:31
+#, php-format
+msgid "This is a %s Gallery and You don't have adequate permissions to view them."
+msgstr "Il s'agit d'une galerie %s  et vous n'avez pas les permissions adéquates pour la visualiser."
+
+#@ buddypress
+#: gallery/single/activity.php:31
+#: gallery/single/media/activity.php:29
+msgid "Load More"
+msgstr "Télécharger plus"
+
+#@ buddypress
+#: gallery/single/activity.php:42
+#: gallery/single/media/activity.php:42
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr "Désolé, aucune activité n'a été trouvée. S'il vous plaît essayer une autre recherche"
+
+#@ bp-gallery
+#: gallery/single/create-form.php:3
+msgid "Create a"
+msgstr "Créer une"
+
+#@ bp-gallery
+#: gallery/single/create-form.php:7
+msgid "Description"
+msgstr "Description"
+
+#@ bp-gallery
+#: gallery/single/create-form.php:12
+#: gallery/single/media/add-from-web.php:17
+msgid "Visibility"
+msgstr "Visibilité"
+
+#@ bp-gallery
+#: gallery/single/create-form.php:13
+msgid "Save Gallery"
+msgstr "Sauvegarder la galerie"
+
+#@ bp-gallery
+#: gallery/single/edit.php:7
+#, php-format
+msgid "Back to %s"
+msgstr "Retour à %s"
+
+#@ bp-gallery
+#: gallery/single/edit.php:12
+#, php-format
+msgid "You have <strong>%s</strong> unpublished %s"
+msgstr "Vous avez <strong>%s</strong>  non publié %s"
+
+#@ bp-gallery
+#: gallery/single/edit.php:14
+msgid "Publish Them to activity now"
+msgstr "Les publier sur la page d'activité maintenant"
+
+#@ bp-gallery
+#: gallery/single/edit.php:14
+msgid "or"
+msgstr "ou"
+
+#@ bp-gallery
+#: gallery/single/edit.php:14
+msgid "Hide This Notice"
+msgstr "Masquer le présent avis"
+
+#@ bp-gallery
+#: gallery/single/edit.php:78
+#: gallery/single/edit.php:112
+msgid "You have not uploaded anything yet, Upload Now."
+msgstr "Vous n'avez rien téléchargé encore , Télécharger maintenant."
+
+#@ bp-gallery
+#: gallery/single/edit.php:137
+#: gallery/single/media/activity-upload-form.php:27
+msgid "Upload & Save Cover"
+msgstr "Télécharger et sauvegarder la couverture"
+
+#@ buddypress
+#: gallery/single/media/activity-entry.php:15
+msgid "Comments"
+msgstr "Commentaires"
+
+#@ buddypress
+#: gallery/single/media/activity-entry.php:20
+msgid "Mark as Favorite"
+msgstr "Marquer comme favori"
+
+#@ buddypress
+#: gallery/single/media/activity-entry.php:20
+msgid "Favorite"
+msgstr "Favori"
+
+#@ buddypress
+#: gallery/single/media/activity-entry.php:22
+msgid "Remove Favorite"
+msgstr "Supprimer le favori"
+
+#@ buddypress
+#: gallery/single/media/activity-entry.php:32
+msgid "In reply to"
+msgstr "En réponse à"
+
+#@ buddypress
+#: gallery/single/media/activity-entry.php:33
+msgid "View Thread / Permalink"
+msgstr "Voir le fil de discussion/le permalien"
+
+#@ buddypress
+#: gallery/single/media/activity-entry.php:33
+msgid "View"
+msgstr "Voir"
+
+#@ buddypress
+#: gallery/single/media/activity-entry.php:50
+msgid "Post"
+msgstr "Publier"
+
+#@ buddypress
+#: gallery/single/media/activity-entry.php:50
+msgid "or press esc to cancel."
+msgstr "ou presser sur esc pour canceller"
+
+#@ bp-gallery
+#: gallery/single/media/add-from-web.php:18
+#, php-format
+msgid "Please enter a Url from %s  and click add"
+msgstr "S'il vous plaît entrer un URL à partir de %s et cliquez sur ajouter"
+
+#@ bp-gallery
+#: gallery/single/media/add-from-web.php:20
+msgid "Add"
+msgstr "Ajouter"
+
+#@ bp-gallery
+#: gallery/single/media/audio-loop.php:22
+#: gallery/single/media/media-loop.php:12
+#: gallery/single/media/photo-loop.php:12
+#: gallery/single/media/video-loop.php:20
+msgid "comments"
+msgstr "commentaires"
+
+#@ bp-gallery
+#: gallery/single/media/audio-loop.php:24
+#: gallery/single/media/media-loop.php:14
+#: gallery/single/media/photo-loop.php:14
+#: gallery/single/media/video-loop.php:22
+msgid "edit"
+msgstr "modifier"
+
+#@ bp-gallery
+#: gallery/single/media/audio-loop.php:24
+#: gallery/single/media/media-loop.php:14
+#: gallery/single/media/photo-loop.php:14
+#: gallery/single/media/video-loop.php:22
+msgid "remove"
+msgstr "supprimer"
+
+#@ bp-gallery
+#: gallery/single/media/audio-loop.php:55
+#: gallery/single/media/media-loop.php:35
+#: gallery/single/media/photo-loop.php:35
+#: gallery/single/media/video-loop.php:53
+msgid ":( we don't have anything here."
+msgstr ":( Nous n'avons rien ici."
+
+#@ bp-gallery
+#: gallery/single/media/audio-single.php:32
+#: gallery/single/media/single.php:25
+#: gallery/single/media/video-single.php:32
+msgid "This is a private media and you don't have adequate permissions to view it."
+msgstr "Il s'agit d'un média privé et vous ne disposez pas des autorisations adéquates pour le voir."
+
+#@ bp-gallery
+#: gallery/single/media/audio-single.php:38
+#: gallery/single/media/single.php:31
+#: gallery/single/media/video-single.php:38
+msgid "Sorry, but we don't have anything here :(."
+msgstr "Désolé, mais nous n'avons rien ici  :(."
+
+#@ buddypress
+#: gallery/single/media/post-form.php:14
+#, php-format
+msgid "Wanna Say something %s?"
+msgstr "Pour ajouter un commentaire"
+
+#@ buddypress
+#: gallery/single/media/post-form.php:26
+msgid "Comment"
+msgstr "Commentaire"
+
+#@ bp-gallery
+#: gallery/single/media/upload-form.php:36
+#, php-format
+msgid "You can upload any file of type %s. The maximum file size should not exceed %s ."
+msgstr "Vous pouvez télécharger n'importe quel fichier de type %s. La taille maximale du fichier ne doit pas dépasser %s."
+
+#@ bp-gallery
+#: gallery/single/media/upload-form.php:37
+msgid "Upload & Save"
+msgstr "Télécharger et sauvegarder"
+
+#@ bp-gallery
+#: inc/ajax.php:24
+msgid "You don't have permissions to create gallery."
+msgstr "Vous n'avez pas les autorisations pour créer une galerie."
+
+#@ bp-gallery
+#: inc/ajax.php:173
+msgid "Gallery Title Can not be left Blank"
+msgstr "Le titre de la galerie  ne peut pas être laissé vide"
+
+#@ bp-gallery
+#: inc/ajax.php:190
+msgid "Gallery created successfully."
+msgstr "La galerie a été créé avec succès."
+
+#@ bp-gallery
+#: inc/ajax.php:194
+msgid "Some Error Occured. Please Try again."
+msgstr "Une erreur s'est produite. S'il vous plaît essayer à nouveau."
+
+#@ bp-gallery
+#: inc/ajax.php:199
+msgid "You don't have sufficient permission to create gallery."
+msgstr "Vous n'avez pas la permission de  créer une galerie."
+
+#@ bp-gallery
+#: inc/ajax.php:217
+#, php-format
+msgid "You deleted the Gallery %s"
+msgstr "Vous avez supprimé la galerie %s"
+
+#@ bp-gallery
+#: inc/ajax.php:221
+#, php-format
+msgid "There Was a problem deleting the Gallery %s"
+msgstr "Il y a eu un problème lors de la  suppression de la galerie%s"
+
+#@ bp-gallery
+#: inc/ajax.php:225
+#, php-format
+msgid "You don't have sufficient permissions to delete the Gallery %s "
+msgstr "Vous n'avez pas la permission de supprimer la galerie %s"
+
+#@ bp-gallery
+#: inc/ajax.php:262
+msgid "Updated The Cover."
+msgstr "Mise à jour de la couverture"
+
+#@ bp-gallery
+#: inc/ajax.php:266
+msgid "Could not update the Cover."
+msgstr "Impossible de mettre à jour  la couverture"
+
+#@ bp-gallery
+#: inc/ajax.php:290
+msgid "Gallery Title can not be empty!"
+msgstr "Le titre de la galerie  ne peut pas être vide!"
+
+#@ bp-gallery
+#: inc/ajax.php:300
+msgid "Gallery updated successfully"
+msgstr "La galerie a été mise à jour avec succès"
+
+#@ bp-gallery
+#: inc/ajax.php:305
+msgid "You don't have permission to perform this operation"
+msgstr "Vous n'avez pas la permission d'effectuer cette opération"
+
+#@ bp-gallery
+#: inc/ajax.php:330
+msgid "Unable to update order.Some problem occured, please try again later."
+msgstr "Impossible de mettre à jour l'ordre de présentation. Un problème s'est produit, s'il vous plaît essayer à nouveau plus tard."
+
+#@ bp-gallery
+#: inc/ajax.php:335
+msgid "Updated Order."
+msgstr "Mise à jour de l'ordre de présentation"
+
+#@ bp-gallery
+#: inc/ajax.php:338
+msgid "Sorry! You don't have sufficient permission to do this."
+msgstr "Désolé! Vous n'avez pas la permission d'effectuer ceci"
+
+#@ bp-gallery
+#: inc/ajax.php:475
+#, php-format
+msgid "You deleted the media %s"
+msgstr "Vous avez supprimé le média %s"
+
+#@ bp-gallery
+#: inc/ajax.php:479
+#, php-format
+msgid "There Was a problem deleting the media %s"
+msgstr "Il y a eu un problème lors de la suppression du média %s"
+
+#@ bp-gallery
+#: inc/ajax.php:483
+#, php-format
+msgid "You don't have sufficient permission to delete the media %s"
+msgstr "Vous n'avez pas la permission de supprimer le média %s"
+
+#@ bp-gallery
+#: inc/ajax.php:514
+msgid "Media updated successfully"
+msgstr "Media mise à jour avec succès"
+
+#@ bp-gallery
+#: inc/ajax.php:519
+msgid "Some error occured"
+msgstr "Une erreur s'est produite"
+
+#@ bp-gallery
+#: inc/ajax.php:522
+#, php-format
+msgid "You don't have sufficient permission to edit this media %s"
+msgstr "Vous n'avez pas la permission de modifier ce média %s"
+
+#@ bp-gallery
+#: inc/ajax.php:557
+msgid "Updated!"
+msgstr "Mise à jour!"
+
+#@ bp-gallery
+#: inc/ajax.php:560
+msgid "You don't have sufficient permission to do this."
+msgstr "Vous n'avez pas la permission de faire ceci"
+
+#@ bp-gallery
+#: inc/ajax.php:586
+#, php-format
+msgid "Invalid Url. You must enere a url from %s "
+msgstr "URL incorrect.  Vous devez entrer un url à partir de %s"
+
+#@ bp-gallery
+#: inc/ajax.php:626
+msgid "The url is invalid!"
+msgstr "L'url n'est pas valide!"
+
+#@ bp-gallery
+#: inc/ajax.php:644
+msgid "Please enter some content to post."
+msgstr "S'il vous plaît entrer du contenu avant de poster."
+
+#@ bp-gallery
+#: inc/ajax.php:681
+msgid "Sorry!, You don't have the permission."
+msgstr "Désolé!, Vous n'avez pas la permission"
+
+#@ bp-gallery
+#: inc/ajax.php:711
+#, php-format
+msgid "%s uploaded a %s to %s"
+msgstr "%s a ajouté un %s vers %s"
+
+#@ bp-gallery
+#: inc/ajax.php:849
+#, php-format
+msgid "%s recieved comments on their %s "
+msgstr "%s a reçu des commentaires sur leur %s"
+
+#@ bp-gallery
+#: inc/ajax.php:862
+#, php-format
+msgid "%s commented on gallery %s "
+msgstr "%s a commenté la galerie %s "
+
+#@ bp-gallery
+#: inc/css-js.php:58
+msgid "Are You sure. You will loose all the comments and the media permanently"
+msgstr "Êtes-vous certain. Vous perdrez tous les commentaires et les médias définitivement"
+
+#@ bp-gallery
+#: inc/css-js.php:59
+msgid "Are You sure. You will loose all the media/comments"
+msgstr "Êtes-vous certain. Vous perdrez tous les médias / commentaires"
+
+#@ bp-gallery
+#: screen-functions.php:234
+msgid "Recent Gallery Updates"
+msgstr "Mises à jour récentes de la galerie"
+

@@ -1,0 +1,1841 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Restrict Content Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-06 15:38-0600\n"
+"PO-Revision-Date: 2013-05-31 18:54+0200\n"
+"Last-Translator: Rami Y <r_a_m_i@hotmail.com>\n"
+"Language-Team: \n"
+"Language: Hebrew\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: includes\n"
+
+#: includes/discount-functions.php:229
+msgid "None"
+msgstr "ללא"
+
+#: includes/user-page-columns.php:4 includes/member-functions.php:317
+msgid "Subscription"
+msgstr "מנוי"
+
+#: includes/user-page-columns.php:5
+msgid "Status"
+msgstr "סטטוס"
+
+#: includes/user-page-columns.php:6
+msgid "Actions"
+msgstr "פעולות"
+
+#: includes/user-page-columns.php:20
+msgid "Edit Subscription"
+msgstr "ערוך מנוי"
+
+#: includes/user-page-columns.php:22
+msgid "Add Subscription"
+msgstr "הוסף מנוי"
+
+#: includes/user-page-columns.php:24
+msgid "View Details"
+msgstr "הצג פרטים"
+
+#: includes/captcha-functions.php:34
+msgid "The words/numbers you entered did not match the reCaptcha"
+msgstr ""
+
+#: includes/member-functions.php:196
+msgid "none"
+msgstr "ללא"
+
+#: includes/member-functions.php:224
+msgid "free"
+msgstr "חינם"
+
+#: includes/member-functions.php:238
+msgid "Active"
+msgstr "פעיל"
+
+#: includes/member-functions.php:241
+msgid "Expired"
+msgstr "פג תוקף"
+
+#: includes/member-functions.php:244
+msgid "Pending"
+msgstr "בהמתנה"
+
+#: includes/member-functions.php:247
+msgid "Cancelled"
+msgstr "בוטל"
+
+#: includes/member-functions.php:250
+msgid "Free"
+msgstr "חינם"
+
+#: includes/member-functions.php:316
+msgid "Date"
+msgstr "תאריך"
+
+#: includes/member-functions.php:318
+msgid "Payment Type"
+msgstr "סוג תשלום"
+
+#: includes/member-functions.php:319
+msgid "Subscription Key"
+msgstr "מפתח"
+
+#: includes/member-functions.php:321 includes/member-functions.php:323
+msgid "Amount"
+msgstr "סכום"
+
+#: includes/member-functions.php:328
+msgid "No payments recorded"
+msgstr "לא נרשמו תשלומים"
+
+#: includes/metabox.php:12
+msgid "Restrict this content"
+msgstr "הגבל תוכן זה"
+
+#: includes/metabox.php:17
+msgid "Paid Only?"
+msgstr "למשמתש משלם בלבד?"
+
+#: includes/metabox.php:20
+msgid "Restrict this entry to active paid users only."
+msgstr ""
+
+#: includes/metabox.php:23
+msgid "Show Excerpt?"
+msgstr "הצג תקציר?"
+
+#: includes/metabox.php:26
+msgid ""
+"Allow non active users to view the excerpt? If left unchecked, the message "
+"defined in settings will be used"
+msgstr ""
+
+#: includes/metabox.php:29
+msgid "Hide from Feed?"
+msgstr "הסתר מפידים?"
+
+#: includes/metabox.php:32
+msgid "Hide the excerpt of this post / page from the Feed?"
+msgstr ""
+
+#: includes/metabox.php:35
+msgid "Access Level"
+msgstr "רמת גישה"
+
+#: includes/metabox.php:38
+msgid ""
+"Choose the access level required see this content. The access level is "
+"determined by the subscription the member is subscribed to."
+msgstr "רמת גישה נדרשת כדי לראות תוכן זה. רמת הגישה נקבעת לפי סוג המנוי."
+
+#: includes/metabox.php:43
+msgid "Subscription Level"
+msgstr "תוכנית"
+
+#: includes/metabox.php:46
+msgid ""
+"Choose the subscription level a user must be subscribed to in order to view "
+"this content."
+msgstr "יש לבחור את התוכנית אליה המשתמש להירשם כדי לצפות בתוכן זה."
+
+#: includes/metabox.php:50
+msgid "User Level"
+msgstr "דרגת משתמש"
+
+#: includes/metabox.php:53
+msgid ""
+"Choose the user level that can see this post / page's content. Users of this "
+"level and higher will be the only ones able to view the content."
+msgstr ""
+
+#: includes/metabox.php:86
+#, php-format
+msgid ""
+"Use these options to restrict this entire entry, or the [restrict] ... [/"
+"restrict] short code to restrict partial content. %sView documentation%s."
+msgstr ""
+
+#: includes/metabox.php:110
+msgid "All"
+msgstr "הכל"
+
+#: includes/metabox.php:124
+msgid "Note 1"
+msgstr "הערה 1"
+
+#: includes/metabox.php:124
+msgid ""
+"To hide this content from logged-out users, but allow free and paid, set the "
+"User Level to \"Subscriber\"."
+msgstr ""
+
+#: includes/metabox.php:125
+msgid "Note 2"
+msgstr "הערה 2"
+
+#: includes/metabox.php:125
+msgid ""
+"Access level, subscription level, and user level can all be combined to "
+"require the user meet all three specifications."
+msgstr "ניתן לשלב רמות גישה, תוכניות ורמות משתמש."
+
+#: includes/error-tracking.php:15
+msgid "Error"
+msgstr "שגיאה"
+
+#: includes/misc-functions.php:107
+msgid "US Dollars (&#36;)"
+msgstr "דולר אמריקאי (&#36;)"
+
+#: includes/misc-functions.php:108
+msgid "Euros (&euro;)"
+msgstr "יורו (&euro;)"
+
+#: includes/misc-functions.php:109
+msgid "Pounds Sterling (&pound;)"
+msgstr "לירת שטרלינג (&pound;)"
+
+#: includes/misc-functions.php:110
+msgid "Australian Dollars (&#36;)"
+msgstr "דולר אוסטרלי (&#36;)"
+
+#: includes/misc-functions.php:111
+msgid "Brazilian Real (&#36;)"
+msgstr "ריאל ברזילאי (&#36;)"
+
+#: includes/misc-functions.php:112
+msgid "Canadian Dollars (&#36;)"
+msgstr "דולר קנדי (&#36;)"
+
+#: includes/misc-functions.php:113
+msgid "Czech Koruna"
+msgstr "קורונה צ'כית"
+
+#: includes/misc-functions.php:114
+msgid "Danish Krone"
+msgstr "קורונה דנית"
+
+#: includes/misc-functions.php:115
+msgid "Hong Kong Dollar (&#36;)"
+msgstr "דולר הונג-קונגי(&#36;)"
+
+#: includes/misc-functions.php:116
+msgid "Hungarian Forint"
+msgstr "פורינט הונגרי"
+
+#: includes/misc-functions.php:117
+msgid "Israeli Shekel"
+msgstr "שקל ישראלי"
+
+#: includes/misc-functions.php:118
+msgid "Japanese Yen (&yen;)"
+msgstr "יין יפני (&yen;)"
+
+#: includes/misc-functions.php:119
+msgid "Malaysian Ringgits"
+msgstr "רינגיט מלזי"
+
+#: includes/misc-functions.php:120
+msgid "Mexican Peso (&#36;)"
+msgstr "פזו מקסיקני (&#36;)"
+
+#: includes/misc-functions.php:121
+msgid "New Zealand Dollar (&#36;)"
+msgstr "דולר ניו-זילנדי (&#36;)"
+
+#: includes/misc-functions.php:122
+msgid "Norwegian Krone"
+msgstr "קורונה נוברבגית"
+
+#: includes/misc-functions.php:123
+msgid "Philippine Pesos"
+msgstr "פזו פיליפיני"
+
+#: includes/misc-functions.php:124
+msgid "Polish Zloty"
+msgstr "זלוטי פולני"
+
+#: includes/misc-functions.php:125
+msgid "Singapore Dollar (&#36;)"
+msgstr "דולר סינגפורי (&#36;)"
+
+#: includes/misc-functions.php:126
+msgid "Swedish Krona"
+msgstr "קורונה שבדית"
+
+#: includes/misc-functions.php:127
+msgid "Swiss Franc"
+msgstr "פרנק שוויצרי"
+
+#: includes/misc-functions.php:128
+msgid "Taiwan New Dollars"
+msgstr "דולר טאיווני"
+
+#: includes/misc-functions.php:129
+msgid "Thai Baht"
+msgstr "באט תאילנדי"
+
+#: includes/misc-functions.php:130
+msgid "Turkish Lira"
+msgstr "לירה טורקית"
+
+#: includes/subscription-functions.php:81
+msgid "No subscription"
+msgstr "ללא מנוי"
+
+#: includes/subscription-functions.php:237
+msgid "Days"
+msgstr "ימים"
+
+#: includes/subscription-functions.php:239
+msgid "Day"
+msgstr "יום"
+
+#: includes/subscription-functions.php:243
+msgid "Months"
+msgstr "חודשים"
+
+#: includes/subscription-functions.php:245
+msgid "Month"
+msgstr "חודש"
+
+#: includes/subscription-functions.php:249
+msgid "Years"
+msgstr "שנים"
+
+#: includes/subscription-functions.php:251
+msgid "Year"
+msgstr "שנה"
+
+#: includes/email-functions.php:21 includes/email-functions.php:33
+#: includes/email-functions.php:46 includes/email-functions.php:59
+#: includes/email-functions.php:72
+msgid "Hello"
+msgstr "שלום"
+
+#: includes/email-functions.php:21 includes/email-functions.php:59
+#: includes/email-functions.php:72
+msgid "is now subscribed to"
+msgstr "מנוי לתוכנית"
+
+#: includes/email-functions.php:21 includes/email-functions.php:59
+#: includes/email-functions.php:72
+msgid "Subscription level"
+msgstr "תוכנית"
+
+#: includes/email-functions.php:23 includes/email-functions.php:35
+#: includes/email-functions.php:48 includes/email-functions.php:61
+#: includes/email-functions.php:74
+msgid "Thank you"
+msgstr "תוה רבה"
+
+#: includes/email-functions.php:24
+msgid "New subscription on "
+msgstr ""
+
+#: includes/email-functions.php:33
+msgid "has cancelled their subscription to"
+msgstr ""
+
+#: includes/email-functions.php:33
+msgid "Their subscription level was"
+msgstr "התוכנית שלהם הייתה"
+
+#: includes/email-functions.php:36
+msgid "Cancelled subscription on "
+msgstr ""
+
+#: includes/email-functions.php:46
+msgid "subscription has expired"
+msgstr "המנוי פג"
+
+#: includes/email-functions.php:49
+msgid "Expired subscription on "
+msgstr ""
+
+#: includes/email-functions.php:62
+msgid "New free subscription on "
+msgstr ""
+
+#: includes/email-functions.php:75
+msgid "New trial subscription on "
+msgstr ""
+
+#: includes/handle-registration-login.php:46
+msgid "Username already taken"
+msgstr "משתמש כבר קיים"
+
+#: includes/handle-registration-login.php:50
+#: includes/handle-registration-login.php:279
+msgid "Invalid username"
+msgstr "משתמש שגוי"
+
+#: includes/handle-registration-login.php:54
+msgid "Please enter a username"
+msgstr "נא להזין שם משתמש"
+
+#: includes/handle-registration-login.php:58
+msgid "Invalid email"
+msgstr "מייל שגוי"
+
+#: includes/handle-registration-login.php:62
+msgid "Email already registered"
+msgstr "מייל כבר קיים"
+
+#: includes/handle-registration-login.php:66
+#: includes/handle-registration-login.php:284
+msgid "Please enter a password"
+msgstr "נא להזין סיסמה"
+
+#: includes/handle-registration-login.php:70
+#: includes/handle-registration-login.php:331
+msgid "Passwords do not match"
+msgstr "הסיסמאות אינן תואמות"
+
+#: includes/handle-registration-login.php:75
+msgid "Please choose a subscription level"
+msgstr "יש לבחור תוכנית"
+
+#: includes/handle-registration-login.php:80
+msgid "You may only sign up for a free trial once"
+msgstr "ניתן להרשם לחשבון הצנסות פעם אחת בלבד"
+
+#: includes/handle-registration-login.php:86
+msgid "The discount you entered is invalid"
+msgstr "קוד ההנחה שהוזן אינו בתוקף"
+
+#: includes/handle-registration-login.php:89
+msgid "You can only use the discount code once"
+msgstr "ניתן להשתמש בקוד ההנחה פעם אחת בלבד"
+
+#: includes/handle-registration-login.php:94
+msgid "Free subscriptions cannot be automatically renewed"
+msgstr ""
+
+#: includes/handle-registration-login.php:291
+msgid "Incorrect password"
+msgstr "סיסמה שגויה"
+
+#: includes/handle-registration-login.php:327
+msgid "Please enter a password, and confirm it"
+msgstr "יש להזין סיסמה ולאשר אותה"
+
+#: includes/shortcodes.php:151
+msgid "You are already registered and have an active subscription."
+msgstr "הינך רשום למערכת ובעל מנוי פעיל."
+
+#: includes/shortcodes.php:245
+msgid "Expiration Date"
+msgstr "תאריך תפוגה"
+
+#: includes/shortcodes.php:247
+msgid "Recurring"
+msgstr "מתחדש"
+
+#: includes/shortcodes.php:248
+msgid "yes"
+msgstr "כן"
+
+#: includes/shortcodes.php:248
+msgid "no"
+msgstr "לא"
+
+#: includes/shortcodes.php:249
+msgid "Current Status"
+msgstr "סטטוס נוכחי"
+
+#: includes/shortcodes.php:251
+msgid "Renew your subscription"
+msgstr "חידוש מנוי"
+
+#: includes/shortcodes.php:253
+msgid "Upgrade your subscription"
+msgstr "שדרוג מנוי"
+
+msgid "Upgrade Your Subscription"
+msgstr "שדרוג מנוי"
+
+#: includes/shortcodes.php:255
+msgid "Cancel your subscription"
+msgstr "ביטול מנוי"
+
+#: includes/shortcodes.php:260
+msgid "Your Payment History"
+msgstr "היסטוריית תשלומים"
+
+#: includes/shortcodes.php:265
+msgid "You must be logged in to view your subscription details"
+msgstr ""
+
+#: includes/member-forms.php:31 includes/member-forms.php:96
+msgid "Username"
+msgstr "שם משתמש"
+
+#: includes/member-forms.php:35 includes/member-forms.php:112
+msgid "Password"
+msgstr "סיסמה"
+
+#: includes/member-forms.php:38
+msgid "Lost your password?"
+msgstr "שחזור סיסמה"
+
+#: includes/member-forms.php:49
+msgid "You are logged in."
+msgstr "הינך מחובר למערכת."
+
+#: includes/member-forms.php:49
+msgid "Logout"
+msgstr "התנתק"
+
+#: includes/member-forms.php:75
+msgid "Register New Account"
+msgstr "רישום חשבון חדש"
+
+#: includes/member-forms.php:79
+msgid "Add a Subscription"
+msgstr "הוסף מנוי"
+
+#: includes/member-forms.php:100
+msgid "Email"
+msgstr "מייל"
+
+#: includes/member-forms.php:104
+msgid "First Name"
+msgstr "שם פרטי"
+
+#: includes/member-forms.php:108
+msgid "Last Name"
+msgstr "שם משפחה"
+
+#: includes/member-forms.php:116
+msgid "Password Again"
+msgstr "אישור סיסמה"
+
+#: includes/member-forms.php:128
+msgid "Choose your subscription level"
+msgstr "בחר תוכנוית"
+
+#: includes/member-forms.php:136
+msgid "unlimited"
+msgstr "ללא הגבלה"
+
+#: includes/member-forms.php:145
+msgid "You have not created any subscription levels yet"
+msgstr "לא נוצרו תוכניות"
+
+#: includes/member-forms.php:153
+msgid "Discount Code"
+msgstr "קוד הנחה"
+
+#: includes/member-forms.php:154
+msgid "Valid"
+msgstr "תקין"
+
+#: includes/member-forms.php:155
+msgid "Invalid"
+msgstr "שגוי"
+
+#: includes/member-forms.php:172
+msgid "Choose Your Payment Method"
+msgstr "שיטת תשלום"
+
+#: includes/member-forms.php:187
+msgid "Register"
+msgstr "הרשמה"
+
+#: includes/member-forms.php:218
+msgid "Password changed successfully"
+msgstr "סיסמה הוחלפה בהצלחה"
+
+#: includes/member-forms.php:224
+msgid "New Password"
+msgstr "סיסמה חדשה"
+
+#: includes/member-forms.php:228
+msgid "Password Confirm"
+msgstr "אישור סיסמה"
+
+#: includes/member-forms.php:235
+msgid "Change Password"
+msgstr "החלף סיסמה"
+
+#: includes/member-forms.php:249
+msgid "Auto Renew"
+msgstr "חידוש אוטומטי"
+
+#: includes/gateways/paypal/paypal.php:132
+msgid "Duplicate Payment"
+msgstr "תשלום כפול"
+
+#: includes/gateways/paypal/paypal.php:133
+msgid ""
+"A duplicate payment was detected. The new payment was still recorded, so you "
+"may want to check into both payments."
+msgstr ""
+
+#: includes/gateways/paypal/paypal.php:149
+msgid "IPN report"
+msgstr "דוח IPN"
+
+#: includes/gateways/paypal/paypal.php:159
+msgid "Price Mismatch"
+msgstr "מחיר שגוי"
+
+#: includes/gateways/paypal/paypal.php:160
+#, php-format
+msgid ""
+"The price in an IPN request did not match the subscription price. Payment "
+"data: %s"
+msgstr ""
+
+#: includes/gateways/paypal/paypal.php:178
+msgid "Subscription Key Mismatch"
+msgstr "מפתח שגוי"
+
+#: includes/gateways/paypal/paypal.php:179
+#, php-format
+msgid ""
+"The subscription key in an IPN request did not match the subscription key "
+"recorded for the user. Payment data: %s"
+msgstr ""
+
+#: includes/gateways/paypal/paypal.php:196
+msgid "Invalid Currency Code"
+msgstr "קוד מטבע שגוי"
+
+#: includes/gateways/paypal/paypal.php:197
+#, php-format
+msgid ""
+"The currency code in an IPN request did not match the site currency code. "
+"Payment data: %s"
+msgstr ""
+
+#: includes/gateways/paypal/paypal.php:354
+msgid "Invalid IPN"
+msgstr "IPN שגוי"
+
+#: includes/admin/edit-discount.php:5
+msgid "Edit Discount Code:"
+msgstr "ערוך קוד הנחה:"
+
+#: includes/admin/edit-discount.php:7
+msgid "Cancel"
+msgstr "בטל"
+
+#: includes/admin/edit-discount.php:15
+msgid " Name"
+msgstr "שם"
+
+#: includes/admin/edit-discount.php:19
+msgid " The name of this discount"
+msgstr "שם ההנחה"
+
+#: includes/admin/edit-discount.php:24
+msgid " Description"
+msgstr "תאור"
+
+#: includes/admin/edit-discount.php:28
+msgid " The description of this discount code"
+msgstr "תיאור ההנחה"
+
+#: includes/admin/edit-discount.php:33
+msgid " Code"
+msgstr "קוד"
+
+#: includes/admin/edit-discount.php:37
+msgid " Enter a code for this discount, such as 10PERCENT"
+msgstr "הזן קוד הנחה, לדוגמא 10PERCENT"
+
+#: includes/admin/edit-discount.php:42
+msgid " Type"
+msgstr "סוג"
+
+#: includes/admin/edit-discount.php:46
+msgid " Percentage"
+msgstr "אחוז"
+
+#: includes/admin/edit-discount.php:47
+msgid " Flat amount"
+msgstr "סכום קבוע"
+
+#: includes/admin/edit-discount.php:49
+msgid " The kind of discount to apply for this discount."
+msgstr "סוג ההנחה לקוד זה"
+
+#: includes/admin/edit-discount.php:54
+msgid " Amount"
+msgstr "סכום"
+
+#: includes/admin/edit-discount.php:58
+msgid " The amount of this discount code."
+msgstr "סכום ההנחה לקוד זה"
+
+#: includes/admin/edit-discount.php:63
+msgid " Expiration date"
+msgstr "תאריך תפוגה"
+
+#: includes/admin/edit-discount.php:67
+msgid ""
+" Enter the expiration date for this discount code in the format of yyyy-mm-"
+"dd. Leave blank for no expiration"
+msgstr ""
+"הגדר תאריך תפוגה לקוד הנחה בפורמט yyyy-mm-dd. השאר ריק אם אין תאריך תפוגה"
+
+#: includes/admin/edit-discount.php:72
+msgid " Status"
+msgstr "סטטוס"
+
+#: includes/admin/edit-discount.php:76
+msgid " Active"
+msgstr "פעיל"
+
+#: includes/admin/edit-discount.php:77
+msgid " Disabled"
+msgstr "לא פעיל"
+
+#: includes/admin/edit-discount.php:79
+msgid " The status of this discount code."
+msgstr "הססטוס של קוד ההנחה"
+
+#: includes/admin/edit-discount.php:84
+msgid " Max Uses"
+msgstr "מספר שימושים מקסימלי"
+
+#: includes/admin/edit-discount.php:88
+msgid ""
+" The maximum number of times this discount can be used. Leave blank for "
+"unlimited."
+msgstr "מספר מקסימלי בו ניתן להשתמש בקוד הנחה זה. השא ריק לשימוש בלתי מוגבל"
+
+#: includes/admin/edit-discount.php:96
+msgid " Update Discount"
+msgstr "עדכן הנחה"
+
+#: includes/admin/help-menus-setup-old.php:17
+#: includes/admin/help-menus-setup-old.php:33
+#: includes/admin/help-menus-setup-old.php:49
+#: includes/admin/help-menus-setup-old.php:65
+#: includes/admin/help-menus-setup-old.php:72
+msgid "General"
+msgstr "כללי"
+
+#: includes/admin/help-menus-setup-old.php:20
+#: includes/admin/help-menus-setup-old.php:36
+msgid "Adding Subscriptions"
+msgstr "הוספת תוכנית"
+
+#: includes/admin/help-menus-setup-old.php:23
+msgid "Member Details"
+msgstr "פרטי משתמש"
+
+#: includes/admin/help-menus-setup-old.php:26
+msgid "Editing Members"
+msgstr "עריכת משתמש"
+
+#: includes/admin/help-menus-setup-old.php:39
+msgid "Editing Subscriptions"
+msgstr "עריכת תוכנית"
+
+#: includes/admin/help-menus-setup-old.php:42
+msgid "Deleting Subscriptions"
+msgstr "מחיקת תוכנית"
+
+#: includes/admin/help-menus-setup-old.php:52
+msgid "Adding Discounts"
+msgstr "הוספת הנחה"
+
+#: includes/admin/help-menus-setup-old.php:55
+msgid "Editing Discounts"
+msgstr "עריכת הנחה"
+
+#: includes/admin/help-menus-setup-old.php:58
+msgid "Using Discounts"
+msgstr "שימוש בהנחה"
+
+#: includes/admin/help-menus-setup-old.php:75
+msgid "Messages"
+msgstr "הודעות"
+
+#: includes/admin/help-menus-setup-old.php:78
+msgid "PayPal"
+msgstr "פייפאל"
+
+#: includes/admin/help-menus-setup-old.php:81
+msgid "Signup Forms"
+msgstr "הרשמה"
+
+#: includes/admin/help-menus-setup-old.php:84
+msgid "Emails"
+msgstr "מיילים"
+
+#: includes/admin/help-menus-setup-old.php:87
+msgid "Misc"
+msgstr "שונות"
+
+#: includes/admin/help-menus-setup-old.php:90
+msgid "Logging"
+msgstr "דוחות"
+
+#: includes/admin/discount-codes.php:12
+msgid "Discount Codes"
+msgstr "קודי הנחה"
+
+#: includes/admin/discount-codes.php:17 includes/admin/discount-codes.php:33
+msgid "ID"
+msgstr "מספר"
+
+#: includes/admin/discount-codes.php:18 includes/admin/discount-codes.php:34
+#: includes/admin/discount-codes.php:97
+msgid "Name"
+msgstr "שם"
+
+#: includes/admin/discount-codes.php:19 includes/admin/discount-codes.php:35
+#: includes/admin/discount-codes.php:106
+msgid "Description"
+msgstr "תיאור"
+
+#: includes/admin/discount-codes.php:20 includes/admin/discount-codes.php:36
+#: includes/admin/discount-codes.php:115
+msgid "Code"
+msgstr "קוד"
+
+#: includes/admin/discount-codes.php:22 includes/admin/discount-codes.php:38
+#: includes/admin/discount-codes.php:124
+msgid "Type"
+msgstr "סוג"
+
+#: includes/admin/discount-codes.php:24 includes/admin/discount-codes.php:40
+msgid "Uses"
+msgstr "שימושים"
+
+#: includes/admin/discount-codes.php:25 includes/admin/discount-codes.php:41
+msgid "Uses Left"
+msgstr "נותרו שימושים"
+
+#: includes/admin/discount-codes.php:26 includes/admin/discount-codes.php:42
+msgid "Expiration"
+msgstr "תפוגה"
+
+#: includes/admin/discount-codes.php:59 includes/admin/discount-codes.php:128
+msgid "Percentage"
+msgstr "אחוז"
+
+#: includes/admin/discount-codes.php:59
+msgid "Flat"
+msgstr "קבוע"
+
+#: includes/admin/discount-codes.php:63
+msgid "active"
+msgstr "פעיל"
+
+#: includes/admin/discount-codes.php:63
+msgid "disabled"
+msgstr "לא פעיל"
+
+#: includes/admin/discount-codes.php:65
+msgid "expired"
+msgstr "פג תוקף"
+
+#: includes/admin/discount-codes.php:74
+msgid "Edit"
+msgstr "עריכה"
+
+#: includes/admin/discount-codes.php:76
+msgid "Deactivate"
+msgstr "הסרה"
+
+#: includes/admin/discount-codes.php:78
+msgid "Activate"
+msgstr "הפעלה"
+
+#: includes/admin/discount-codes.php:80
+msgid "Delete"
+msgstr "מחיקה"
+
+#: includes/admin/discount-codes.php:87
+msgid "No discount codes added yet."
+msgstr "עדיין לא נ וצרו קודי הנחה"
+
+#: includes/admin/discount-codes.php:91
+msgid "Add New Discount"
+msgstr "הוסף הנחה"
+
+#: includes/admin/discount-codes.php:101
+msgid "The name of this discount"
+msgstr "שם ההנחה"
+
+#: includes/admin/discount-codes.php:110
+msgid "The description of this discount code"
+msgstr "תיאור ההנחה"
+
+#: includes/admin/discount-codes.php:119
+msgid "Enter a code for this discount, such as 10PERCENT"
+msgstr "הזן קוד הנחה, לדוגמא 10PERCENT"
+
+#: includes/admin/discount-codes.php:129
+msgid "Flat amount"
+msgstr "מחיר קבוע"
+
+#: includes/admin/discount-codes.php:131
+msgid "The kind of discount to apply for this discount."
+msgstr "סוג ההנחה לקוד זה"
+
+#: includes/admin/discount-codes.php:140
+msgid "The amount of this discount code."
+msgstr "סכום ההנחה לקוד זה"
+
+#: includes/admin/discount-codes.php:145
+msgid "Expiration date"
+msgstr "תאריך תפוגה"
+
+#: includes/admin/discount-codes.php:149
+msgid ""
+"Enter the expiration date for this discount code in the format of yyyy-mm-"
+"dd. For no expiration, leave blank"
+msgstr ""
+"הגדר תאריך תפוגה לקוד הנחה בפורמט yyyy-mm-dd. השאר ריק אם אין תאריך תפוגה"
+
+#: includes/admin/discount-codes.php:154
+msgid "Max Uses"
+msgstr "שימושים מקסימליים"
+
+#: includes/admin/discount-codes.php:158
+msgid ""
+"The maximum number of times this discount can be used. Leave blank for "
+"unlimited."
+msgstr "מספר מקסימלי בו ניתן להשתמש בקוד הנחה זה. השא ריק לשימוש בלתי מוגבל"
+
+#: includes/admin/discount-codes.php:166
+msgid "Add Discount Code"
+msgstr "הוסף קוד הנחה"
+
+#: includes/admin/edit-subscription.php:5
+msgid "Edit Subscription Level:"
+msgstr "ערוך תוכנית:"
+
+#: includes/admin/edit-subscription.php:19
+msgid "The name of this subscription. This is shown on the registration page."
+msgstr "שם התוכנית אשר יופיע בעמוד ההרשמה"
+
+#: includes/admin/edit-subscription.php:28
+msgid ""
+"The description of this subscription. This is shown on the registration page."
+msgstr "תיאור התוכנית אשר יופיע בעמוד ההרשמה"
+
+#: includes/admin/edit-subscription.php:43
+msgid "Level of access this subscription gives."
+msgstr "רמת גישה שהתוכנית מקנה למשתמש"
+
+#: includes/admin/edit-subscription.php:48
+#: includes/admin/subscription-levels.php:22
+#: includes/admin/subscription-levels.php:36
+#: includes/admin/subscription-levels.php:124
+msgid "Duration"
+msgstr "משך"
+
+#: includes/admin/edit-subscription.php:53
+#: includes/admin/subscription-levels.php:129
+msgid "Days(s)"
+msgstr "ימים"
+
+#: includes/admin/edit-subscription.php:54
+#: includes/admin/subscription-levels.php:130
+msgid "Month(s)"
+msgstr "חודשים"
+
+#: includes/admin/edit-subscription.php:55
+#: includes/admin/subscription-levels.php:131
+msgid "Years(s)"
+msgstr "שנים"
+
+#: includes/admin/edit-subscription.php:57
+#: includes/admin/subscription-levels.php:133
+msgid "Length of time for this membership level. Enter 0 for unlimited."
+msgstr "משך התוכנית. הזינו  לתוכנית ללא הגבלת זמן."
+
+#: includes/admin/edit-subscription.php:62
+#: includes/admin/subscription-levels.php:23
+#: includes/admin/subscription-levels.php:37
+#: includes/admin/subscription-levels.php:138
+msgid "Price"
+msgstr "מחיר"
+
+#: includes/admin/edit-subscription.php:66
+#: includes/admin/subscription-levels.php:146
+msgid "The price of this membership level. Enter 0 for free."
+msgstr "מחיר התוכנית. 0 למנוי בחינם."
+
+#: includes/admin/edit-subscription.php:76
+#: includes/admin/subscription-levels.php:156
+msgid "Inactive"
+msgstr "לא פעיל"
+
+#: includes/admin/edit-subscription.php:78
+#: includes/admin/subscription-levels.php:158
+msgid "Members may only sign up for active subscription levels."
+msgstr "ניתן להירשם לתוכניות פעילות בלבד"
+
+#: includes/admin/edit-subscription.php:86
+msgid "Update Subscription"
+msgstr "ערוך תוכנית"
+
+#: includes/admin/edit-member.php:5
+msgid "Edit Member:"
+msgstr "ערוך משתמש:"
+
+#: includes/admin/edit-member.php:27
+msgid "The status of this user's subscription"
+msgstr "הסטטוס של תוכנית המנוי"
+
+#: includes/admin/edit-member.php:42 includes/admin/members-page.php:227
+msgid "Choose the subscription level for this user"
+msgstr "בחר תוכנית עבור המשתמש"
+
+#: includes/admin/edit-member.php:51 includes/admin/members-page.php:236
+msgid "Enter the expiration date for this user in the format of yyyy-mm-dd"
+msgstr "הגדר תאריך תפוגה למשתמש בפורמט yyyy-mm-dd"
+
+#: includes/admin/edit-member.php:61
+msgid "Is this user's subscription recurring?"
+msgstr "האם המנוי של המשתמש מתחדש אוטומטית?"
+
+#: includes/admin/edit-member.php:67
+msgid "Sign Up Method"
+msgstr "שיטת הרשמה"
+
+#: includes/admin/edit-member.php:72
+msgid "User Signup"
+msgstr "הרשמת משתמש רגילה"
+
+#: includes/admin/edit-member.php:73
+msgid "Added by admin manually"
+msgstr "התווסף ידנית על ידי המנהל"
+
+#: includes/admin/edit-member.php:75
+msgid "Was this a real signup or a membership given to the user"
+msgstr "האם הייתה זו הרשמת משתמש רגילה או שההנהלה נתנה למשתמש גישה באופן ידני"
+
+#: includes/admin/edit-member.php:80
+msgid "User Notes"
+msgstr "הערות"
+
+#: includes/admin/edit-member.php:84
+msgid "Use this area to record notes about this user if needed"
+msgstr "במידת הצורך, ניתן להשתמש בשדה זה כדי להוסיף הערות אודות המשתמש"
+
+#: includes/admin/edit-member.php:92
+msgid "Update User Subscription"
+msgstr "ערוך תוכנית משתמש"
+
+#: includes/admin/export.php:8 includes/admin/menu-links.php:18
+msgid "Export"
+msgstr "יצוא"
+
+#: includes/admin/export.php:9
+msgid "Members Export"
+msgstr "יצוא חברים"
+
+#: includes/admin/export.php:10
+msgid ""
+"Download member data as a CSV file. This is useful for tasks such as "
+"importing batch users into Mail Chimp, or other systems."
+msgstr ""
+
+#: includes/admin/export.php:24
+msgid "Choose the subscription to export members from"
+msgstr ""
+
+#: includes/admin/export.php:34
+msgid "Choose the status to export"
+msgstr ""
+
+#: includes/admin/export.php:37
+msgid "Download Member CSV"
+msgstr "הורדת CSV משתמשים"
+
+#: includes/admin/export.php:41
+msgid "Payments Export"
+msgstr "יצוא תשלומים"
+
+#: includes/admin/export.php:42
+msgid ""
+"Download payment data as a CSV file. Use this file for your own record "
+"keeping or tracking."
+msgstr ""
+
+#: includes/admin/export.php:45
+msgid "Download Payments CSV"
+msgstr "הורדת CSV תשלומים"
+
+#: includes/admin/view-member.php:5
+msgid "View Member Details:"
+msgstr "פרטי משתמש:"
+
+#: includes/admin/view-member.php:7
+msgid "Go Back"
+msgstr "חזרה"
+
+#: includes/admin/view-member.php:39
+msgid "Subscription key"
+msgstr "מפתח"
+
+#: includes/admin/view-member.php:47
+msgid "Signup Method"
+msgstr "שיטת רישום"
+
+#: includes/admin/view-member.php:55
+msgid "Regular user signup"
+msgstr "הרשמת משתמש רגילה"
+
+#: includes/admin/view-member.php:58
+msgid "Manually added by an admin"
+msgstr "התווסף ידנית על ידי המנהל"
+
+#: includes/admin/view-member.php:67
+msgid "Discount codes used"
+msgstr "שימוש בקוד הנחה"
+
+#: includes/admin/view-member.php:84
+msgid "Member Notes"
+msgstr "הערות משתמש"
+
+#: includes/admin/view-member.php:92 includes/admin/menu-links.php:16
+#: includes/admin/settings.php:33 includes/admin/payments-page.php:9
+msgid "Payments"
+msgstr "תשלומים"
+
+#: includes/admin/members-page.php:15
+msgid "Paid Subscribers"
+msgstr "משתמשים משלמים"
+
+#: includes/admin/members-page.php:57
+msgid "Status: "
+msgstr "סטטוס:"
+
+#: includes/admin/members-page.php:59
+msgid "View all active subscribers"
+msgstr "הצג מנויים פעילים"
+
+#: includes/admin/members-page.php:64
+msgid "View all pending subscribers"
+msgstr "הצג מנויים בהמתנה"
+
+#: includes/admin/members-page.php:69
+msgid "View all expired subscribers"
+msgstr "הצג מנויים שפגו"
+
+#: includes/admin/members-page.php:74
+msgid "View all cancelled subscribers"
+msgstr "הצג מנויים שבוטלו"
+
+#: includes/admin/members-page.php:79
+msgid "View all free members"
+msgstr "הצג מנויים חינמיים"
+
+#: includes/admin/members-page.php:89
+msgid "All Subscriptions"
+msgstr "כל המנויים"
+
+#: includes/admin/members-page.php:98
+msgid "Newest First"
+msgstr "קודם החדשים"
+
+#: includes/admin/members-page.php:99
+msgid "Oldest First"
+msgstr "קודם הוותיקים"
+
+#: includes/admin/members-page.php:103
+msgid "Filter"
+msgstr "פילטר"
+
+#: includes/admin/members-page.php:108 includes/admin/members-page.php:122
+#: includes/admin/payments-page.php:41 includes/admin/payments-page.php:53
+msgid "User"
+msgstr "משתמש"
+
+#: includes/admin/members-page.php:115 includes/admin/members-page.php:129
+msgid "User Role"
+msgstr "תפקיד"
+
+#: includes/admin/members-page.php:163
+msgid "Details"
+msgstr "פרטים"
+
+#: includes/admin/members-page.php:175
+msgid "No subscribers found"
+msgstr "לא נמצאו מנויים"
+
+#: includes/admin/members-page.php:187 includes/admin/payments-page.php:93
+msgid "&laquo; Previous"
+msgstr "קודם"
+
+#: includes/admin/members-page.php:188 includes/admin/payments-page.php:94
+msgid "Next &raquo;"
+msgstr "הבא"
+
+#: includes/admin/members-page.php:199
+msgid "Add New Subscription (for existing user)"
+msgstr "הוסף תוכנית (למשתמש קיים)"
+
+#: includes/admin/members-page.php:211
+msgid "Begin typing the user name to add a subscription to."
+msgstr "התחל להקליד את שם המשתמש"
+
+#: includes/admin/members-page.php:220
+msgid "--choose--"
+msgstr "--בחר--"
+
+#: includes/admin/members-page.php:243
+msgid "Add User Subscription"
+msgstr "הוסף תוכנית למשתמש"
+
+#: includes/admin/menu-links.php:12 includes/admin/menu-links.php:17
+msgid "Restrict Content Pro Settings"
+msgstr "הגדרות"
+
+#: includes/admin/menu-links.php:12
+msgid "Restrict"
+msgstr "הגבלת תוכן"
+
+#: includes/admin/menu-links.php:13
+msgid "Members"
+msgstr "משתמשים"
+
+#: includes/admin/menu-links.php:14 includes/admin/subscription-levels.php:12
+msgid "Subscription Levels"
+msgstr "תוכניות"
+
+#: includes/admin/menu-links.php:15
+msgid "Discounts"
+msgstr "הנחות"
+
+#: includes/admin/menu-links.php:17
+msgid "Settings"
+msgstr "הגדרות"
+
+#: includes/admin/menu-links.php:18
+msgid "Export Member Data"
+msgstr ""
+
+#: includes/admin/menu-links.php:19
+msgid "Help"
+msgstr "עזרה"
+
+#: includes/admin/settings.php:22
+msgid "Options saved"
+msgstr "הגדרות נשמרו"
+
+#: includes/admin/settings.php:31 includes/admin/help-page.php:15
+msgid "Restrict Content Pro"
+msgstr "הגבלת תוכן"
+
+#: includes/admin/settings.php:46
+msgid "Free Content Message"
+msgstr "הודעת תוכן חופשי"
+
+#: includes/admin/settings.php:52
+msgid ""
+"This is the message shown to users that do not have privilege to view free, "
+"user only content."
+msgstr "הודעה שתוצג למשתמשים לא מחוברים שאין להם הרשאה לראות תוכן חופשי."
+
+#: includes/admin/settings.php:57
+msgid "Premium Content Message"
+msgstr "הודעת תוכן פרימיום"
+
+#: includes/admin/settings.php:63
+msgid ""
+"This is the message shown to users that do not have privilege to view "
+"premium content."
+msgstr "הודעה שתוצג למשתמשים מחוברים או לא שאין להם הרשאה לראות תוכן פרימיום."
+
+#: includes/admin/settings.php:80
+msgid "Currency"
+msgstr "מטבע"
+
+#: includes/admin/settings.php:91
+msgid "Choose your currency."
+msgstr "המטבע באמצעותו יבוצע התשלום"
+
+#: includes/admin/settings.php:96
+msgid "Currency Position"
+msgstr "מיקום סמל מטבע"
+
+#: includes/admin/settings.php:100
+msgid "Before - $10"
+msgstr "לפני - $10"
+
+#: includes/admin/settings.php:101
+msgid "After - 10$"
+msgstr "אחרי - 10$"
+
+#: includes/admin/settings.php:103
+msgid "Show the currency sign before or after the price?"
+msgstr "להציג את סמל המטבע לפני או אחרי המחיר?"
+
+#: includes/admin/settings.php:110
+msgid "Gateways"
+msgstr ""
+
+#: includes/admin/settings.php:113
+msgid ""
+"Check each of the payment gateways you would like to enable. Configure the "
+"selected gateways below."
+msgstr ""
+
+#: includes/admin/settings.php:117
+msgid "Enabled Gateways"
+msgstr ""
+
+#: includes/admin/settings.php:131
+msgid "PayPal Settings"
+msgstr "הגדרות פייפאל"
+
+#: includes/admin/settings.php:135
+msgid "PayPal Address"
+msgstr "כתובת פייפאל"
+
+#: includes/admin/settings.php:139
+msgid "Enter your PayPal email address."
+msgstr "הזן כתובת מייל המשתמש כחשבון הפייפאל שלך"
+
+#: includes/admin/settings.php:144
+msgid "Sandbox Mode"
+msgstr "מצב ארגז חול"
+
+#: includes/admin/settings.php:148
+msgid ""
+"Use PayPal in Sandbox mode. This allows you to test the plugin with the <a "
+"href=\"http://developer.paypal.com\">PayPal test account</a>"
+msgstr ""
+"סמנו אפשרות זו כדי לבחון את התוסף עם <a href=\"http://developer.paypal.com"
+"\">חשבון פייפאל במצב ארגז חול</a>"
+
+#: includes/admin/settings.php:153
+msgid "Disable CURL"
+msgstr "נטרל cURL"
+
+#: includes/admin/settings.php:157
+msgid "Only check this option if your host does not allow cURL"
+msgstr "סמנו אפשרות זו רק כאשר חברת האכסון אינה תומכת ב-cURL"
+
+#: includes/admin/settings.php:162
+msgid "Disable IPN Verification"
+msgstr "נטרל אימות IPN"
+
+#: includes/admin/settings.php:166
+msgid ""
+"Only check this option if your members statuses are not getting changed to "
+"\"active\""
+msgstr "סמנו אפשרות זו רק כאשר סטטוס המשתשמים לא משתנה לסטטוס פעיל"
+
+#: includes/admin/settings.php:178
+msgid "jQuery Validation"
+msgstr "אימות jQuery"
+
+#: includes/admin/settings.php:182
+msgid ""
+"Check this to enable live, front end form validation. If this is disabled, "
+"all validation will be done server side and will require a page reload."
+msgstr ""
+
+#: includes/admin/settings.php:187
+msgid "Disable Form CSS"
+msgstr "נטרל CSS לטפסים"
+
+#: includes/admin/settings.php:191
+msgid "Check this to disable all included form styling."
+msgstr ""
+
+#: includes/admin/settings.php:196
+msgid "Success Page"
+msgstr "עמוד הצלחה"
+
+#: includes/admin/settings.php:209 includes/admin/settings.php:231
+#: includes/admin/settings.php:484 includes/admin/settings.php:515
+msgid "No pages found"
+msgstr "לא נמצאו דפים"
+
+#: includes/admin/settings.php:213
+msgid ""
+"This is the page users are redirected to after a successful registration"
+msgstr "העמוד אליו מועבר המשתמש אחרי הרשמה מוצלחת"
+
+#: includes/admin/settings.php:218
+msgid "Registration Page"
+msgstr "עמוד הרשמה"
+
+#: includes/admin/settings.php:235
+msgid "Choose the page that has the [register_form] short code"
+msgstr "העמוד ההרשמה בו מופיעה פקודת המקרו [register_form]"
+
+#: includes/admin/settings.php:240
+msgid "Enable reCaptcha"
+msgstr "הפעל reCaptcha"
+
+#: includes/admin/settings.php:244
+msgid "Check this to enable reCaptcha on the registration form."
+msgstr "סמנו אפשרות זו כדי להוסיף reCaptcha בעמוד ההרשמה"
+
+#: includes/admin/settings.php:249
+msgid "reCaptcha Public Key"
+msgstr "מפתח reCaptcha ציבורי"
+
+#: includes/admin/settings.php:253
+msgid "This your own personal reCaptcha Public key. Go to"
+msgstr ""
+
+#: includes/admin/settings.php:253 includes/admin/settings.php:262
+msgid "your account"
+msgstr "החשבון שלך"
+
+#: includes/admin/settings.php:253
+msgid "then click on your domain (or add a new one) to find your public key."
+msgstr ""
+
+#: includes/admin/settings.php:258
+msgid "reCaptcha Private Key"
+msgstr "מפתח reCaptcha פרטי"
+
+#: includes/admin/settings.php:262
+msgid "This your own personal reCaptcha Private key. Go to"
+msgstr ""
+
+#: includes/admin/settings.php:262
+msgid "then click on your domain (or add a new one) to find your private key."
+msgstr ""
+
+#: includes/admin/settings.php:267
+msgid "reCaptcha Style"
+msgstr "סגנון reCaptcha"
+
+#: includes/admin/settings.php:282
+msgid "Choose the style you wish to use for your reCaptcha form"
+msgstr ""
+
+#: includes/admin/settings.php:287
+msgid "SSL"
+msgstr "SSL"
+
+#: includes/admin/settings.php:291
+msgid ""
+"Check this option if your registration page is using the https:// protocol. "
+"This will be the case if you have an SSL certificate installed."
+msgstr ""
+
+#: includes/admin/settings.php:296
+msgid "Disable Auto Renew"
+msgstr "נטרל חידוש אוטומטי"
+
+#: includes/admin/settings.php:300
+msgid "Check this option if you do NOT want to allow recurring subscriptions"
+msgstr ""
+
+#: includes/admin/settings.php:314
+msgid "Active Subscription Email"
+msgstr ""
+
+#: includes/admin/settings.php:318 includes/admin/settings.php:364
+#: includes/admin/settings.php:387 includes/admin/settings.php:410
+msgid "Subject"
+msgstr "נושא"
+
+#: includes/admin/settings.php:322
+msgid ""
+"The subject line for the email sent to users when their subscription becomes "
+"active."
+msgstr ""
+
+#: includes/admin/settings.php:327 includes/admin/settings.php:350
+#: includes/admin/settings.php:373 includes/admin/settings.php:396
+msgid "Email Body"
+msgstr "תוכן"
+
+#: includes/admin/settings.php:331
+msgid ""
+"This is the email message that is sent to users when their subscription "
+"becomes active."
+msgstr ""
+
+#: includes/admin/settings.php:336
+msgid "Cancelled Subscription Email"
+msgstr ""
+
+#: includes/admin/settings.php:341
+msgid "Subject line"
+msgstr "נושא"
+
+#: includes/admin/settings.php:345
+msgid ""
+"The subject line for the email sent to users when their subscription is "
+"cancelled."
+msgstr ""
+
+#: includes/admin/settings.php:354
+msgid ""
+"This is the email message that is sent to users when their subscription is "
+"cancelled."
+msgstr ""
+
+#: includes/admin/settings.php:359
+msgid "Expired Subscription Email"
+msgstr ""
+
+#: includes/admin/settings.php:368
+msgid ""
+"The subject line for the email sent to users when their subscription is "
+"expired."
+msgstr ""
+
+#: includes/admin/settings.php:377
+msgid ""
+"This is the email message that is sent to users when their subscription is "
+"expired."
+msgstr ""
+
+#: includes/admin/settings.php:382
+msgid "Free Subscription Email"
+msgstr ""
+
+#: includes/admin/settings.php:391
+msgid ""
+"The subject line for the email sent to users when they sign up for a free "
+"membership."
+msgstr ""
+
+#: includes/admin/settings.php:400
+msgid ""
+"This is the email message that is sent to users when they sign up for a free "
+"account."
+msgstr ""
+
+#: includes/admin/settings.php:405
+msgid "Trial Subscription Email"
+msgstr ""
+
+#: includes/admin/settings.php:414
+msgid ""
+"The subject line for the email sent to users when they sign up for a free "
+"trial."
+msgstr ""
+
+#: includes/admin/settings.php:419
+msgid "Trial Email Message"
+msgstr ""
+
+#: includes/admin/settings.php:423
+msgid ""
+"This is the email message that is sent to users when they sign up for a free "
+"trial."
+msgstr ""
+
+#: includes/admin/settings.php:428
+msgid "New User Notifications"
+msgstr ""
+
+#: includes/admin/settings.php:433
+msgid "Disable New User Notifications"
+msgstr ""
+
+#: includes/admin/settings.php:437
+msgid ""
+"Check this option if you do NOT want to receive emails when new users signup"
+msgstr ""
+
+#: includes/admin/settings.php:445
+msgid "Available Template Tags"
+msgstr "פונקציות תבנית"
+
+#: includes/admin/settings.php:447
+msgid "will be replaced with the name of your site"
+msgstr ""
+
+#: includes/admin/settings.php:448
+msgid "will be replaced with the user name of the person receiving the email"
+msgstr ""
+
+#: includes/admin/settings.php:449
+msgid "will be replaced with the expiration date of subscription"
+msgstr ""
+
+#: includes/admin/settings.php:450
+msgid "will be replaced with the name of the subscription"
+msgstr ""
+
+#: includes/admin/settings.php:451
+msgid ""
+"will be replaced with the unique, 32 character key created when the user is "
+"registered"
+msgstr ""
+
+#: includes/admin/settings.php:452
+msgid "will be replaced with the amount of the users last payment"
+msgstr ""
+
+#: includes/admin/settings.php:462
+msgid "Hide Premium Posts"
+msgstr "הסתר תכני פרימיום"
+
+#: includes/admin/settings.php:466
+msgid ""
+"Check this to hide all premium posts from queries when user is not logged "
+"in. Note, this will only hide posts that have the \"Paid Only?\" checkbox "
+"checked."
+msgstr ""
+
+#: includes/admin/settings.php:471
+msgid "Redirect Page"
+msgstr "עמוד הפניה"
+
+#: includes/admin/settings.php:488
+msgid ""
+"This is the page non-subscribed users are redirected to when attempting to "
+"access a premium post or page"
+msgstr ""
+
+#: includes/admin/settings.php:493
+msgid "Redirect Default Login URL"
+msgstr ""
+
+#: includes/admin/settings.php:497
+msgid ""
+"Check this to force the default login URL to redirect to the page specified "
+"below."
+msgstr ""
+
+#: includes/admin/settings.php:502
+msgid "Login Page"
+msgstr "עמוד התחברות"
+
+#: includes/admin/settings.php:519
+msgid ""
+"This is the page the default login URL redirects to, if the option above is "
+"checked. This should be the page that contains the [login_form] short code."
+msgstr ""
+
+#: includes/admin/settings.php:530
+msgid "Email IPN reports"
+msgstr "שלח במייל דוחות IPN"
+
+#: includes/admin/settings.php:534
+msgid ""
+"Check this to send an email each time an IPN request is made with PayPal. "
+"The email will contain a list of all data sent. This is useful for debugging "
+"in the case that something is not working with the PayPal integration."
+msgstr ""
+"סמנו אפשרות זו כדי לקבל הודעה במייל בכל פעם שנשלחת בקשת IPN באמצעות פייפאל. "
+"הדוח שישלח במייל יכלול את כל פרטי הבקשה. הדבר שימושי לביצוע דיבאג במקרים בהם "
+"משהו לא עובד בשילוב עם פייפאל."
+
+#: includes/admin/settings.php:545
+msgid "Save Options"
+msgstr "שמור הגדרות"
+
+#: includes/admin/payments-page.php:31
+msgid "Total Earnings"
+msgstr "סה\"כ הכנסות"
+
+#: includes/admin/payments-page.php:78
+msgid "No payments recorded yet"
+msgstr "עדיין לא נרשמו תשלומים"
+
+#: includes/admin/admin-ajax-actions.php:59
+msgid "No users found"
+msgstr "לא נמצאו משתמשים"
+
+#: includes/admin/screen-options.php:21
+msgid "Members per page"
+msgstr "מספר משתמשים בעמוד"
+
+#: includes/admin/screen-options.php:30
+msgid "Payments per page"
+msgstr "מספר תשלומים בעמוד"
+
+#: includes/admin/help-page.php:9
+msgid "Help Documentation"
+msgstr "עזרה"
+
+#: includes/admin/help-page.php:23
+msgid "Index"
+msgstr "אינדקס"
+
+#: includes/admin/help-page.php:44
+msgid "Finding Documentation and About this Help Page"
+msgstr "תיעוד ועזרה בתפעול התוסף"
+
+#: includes/admin/help-page.php:53
+msgid "Quick Video Tutorials"
+msgstr "הדרכות וידאו"
+
+#: includes/admin/help-page.php:82
+msgid "Restricting Post/Page Content"
+msgstr "הגבלת תכנים"
+
+#: includes/admin/help-page.php:144
+msgid "Frequently Asked Questions"
+msgstr "שאלות נפוצות"
+
+#: includes/admin/help-page.php:161
+msgid "Short Code Reference"
+msgstr "פקודות מקרו"
+
+#: includes/admin/help-page.php:247
+msgid "Template Tag Reference"
+msgstr "פונקציות תבנית"
+
+#: includes/admin/help-page.php:316
+msgid "Filter Reference"
+msgstr "פילטרים"
+
+#: includes/admin/help-page.php:344
+msgid "Action Reference"
+msgstr "פעולות"
+
+#: includes/admin/admin-notices.php:7
+msgid "You should now configure your Restrict Content Pro settings"
+msgstr "עתה יש להגדיר הגדרות"
+
+#: includes/admin/admin-notices.php:14
+msgid "The Restrict Content Pro database needs updated: "
+msgstr "מס הנתונים דורש עשכון:"
+
+#: includes/admin/admin-notices.php:14
+msgid "upgrade now"
+msgstr "שדרג עכשיו"
+
+#: includes/admin/admin-notices.php:17
+msgid "The Restrict Content Pro database has been updated"
+msgstr "מסד הנתונים עודכן"
+
+#: includes/admin/admin-notices.php:20
+msgid "Member updated"
+msgstr "משתמש עודכן"
+
+#: includes/admin/admin-notices.php:27
+msgid "Database upgrade complete"
+msgstr "שדרוג מסד הנתונים הושלם"
+
+#: includes/admin/subscription-levels.php:17
+#: includes/admin/subscription-levels.php:31
+msgid "Order"
+msgstr "סדר"
+
+#: includes/admin/subscription-levels.php:24
+#: includes/admin/subscription-levels.php:38
+msgid "Subscribers"
+msgstr "מנויים"
+
+#: includes/admin/subscription-levels.php:80
+msgid "No subscription levels added yet."
+msgstr "עדיין לא נוצרו תוכניות"
+
+#: includes/admin/subscription-levels.php:84
+msgid "Add New Level"
+msgstr "תוכנית חדשה"
+
+#: includes/admin/subscription-levels.php:94
+msgid "The name of the membership level."
+msgstr "שם התוכנית"
+
+#: includes/admin/subscription-levels.php:103
+msgid "Membership level description. This is shown on the registration form."
+msgstr "תיאור התוכנית אשר יופיע בעמוד ההרשמה"
+
+#: includes/admin/subscription-levels.php:119
+msgid ""
+"Level of accesss this subscription gives. Leave at 0 for default or you are "
+"unsure what this is."
+msgstr ""
+"רמת גישה שהתוכנית מקנה למשתמש. השאירו 0 לברירת מחדל או אם אינך יודע מה "
+"משמעות הדבר."
+
+#: includes/admin/subscription-levels.php:165
+msgid "Add Membership Level"
+msgstr "הוסף תוכנית"
+
+#: includes/libraries/class-wp-logging.php:69
+msgid "Logs"
+msgstr "דוחות"
+
+msgid "Login"
+msgstr "התחבר"
+
+#~ msgid "User ID"
+#~ msgstr "משתמש"
+
+#~ msgid "User Login"
+#~ msgstr "התחברות"
+
+#~ msgid "User Email"
+#~ msgstr "מייל"
+
+#, fuzzy
+#~ msgid "Are you sure you wish to cancel this member's subscription?"
+#~ msgstr "הסטטוס של תוכנית המנוי"
+
+#~ msgid "Payment deleted"
+#~ msgstr "תשלום נמחק"
+
+#, fuzzy
+#~ msgid "The user's subscription has been added"
+#~ msgstr "התוכנית שלהם הייתה"
+
+#, fuzzy
+#~ msgid "The user's subscription could not be added"
+#~ msgstr "התוכנית שלהם הייתה"
+
+#, fuzzy
+#~ msgid "Subscription level added"
+#~ msgstr "תוכנית"
+
+#, fuzzy
+#~ msgid "Subscription level updated"
+#~ msgstr "תוכנית"
+
+#, fuzzy
+#~ msgid "Subscription level could not be added"
+#~ msgstr "עדיין לא נוצרו תוכניות"
+
+#, fuzzy
+#~ msgid "Subscription level could not be updated"
+#~ msgstr "תוכנית"
+
+#~ msgid "View logs for this user"
+#~ msgstr "הצג את כל התשלומים"
+
+#~ msgid "at"
+#~ msgstr "בתאריך"
+
+#~ msgid "Log Error"
+#~ msgstr "שגיאה"
+
+#~ msgid "Log Message"
+#~ msgstr "הודעות"
+
+#~ msgid "RCP Error Logs"
+#~ msgstr "דוח שגיאות"
+
+#~ msgid "Search Members"
+#~ msgstr "חיפוש משתמשים"
+
+#~ msgid "Search members"
+#~ msgstr "חיפוש משתמשים"
+
+#~ msgid "Either"
+#~ msgstr "או"
+
+#~ msgid "Not Recurring"
+#~ msgstr "לא מתחדש"
+
+#~ msgid "View all payments"
+#~ msgstr "הצג את כל התשלומים"
+
+#~ msgid "View payments by this user"
+#~ msgstr "הצג את כל התשלומים"

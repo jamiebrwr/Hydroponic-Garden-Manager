@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+table .accordion_title td {
+	cursor:pointer; 
+	border:1px solid #666;
+	font-weight:bold;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding-left:5px;
+}
+.ft_calculator_wrap ul.ui-tabs-nav {
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px; 
+}
+.ft_calculator_wrap h2 {
+	margin-top:10px !important;
+	margin-bottom:10px !important; 
+}
+table tr td {
+	border:0px; 
+}
+.ft_tabs .ui-tabs-panel td {
+	padding-bottom:3px;
+	border-top:0px !important;
+	padding-top:3px;
+	padding-left:0px;
+	padding-right:0px;
+	border:0px;
+	border-bottom:1px solid #ECECEC; 
+}
+.ft_tabs .ui-accordion-header tr td {
+	border-top:1px solid #666 !important;
+	margin-bottom:2px !important;
+	padding-left:6px !important;
+	padding-right:6px !important; 
+}
+.arrow-down {
+	width: 0; 
+	height: 0; 
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent;
+	border-left: 10px solid #666666;
+	float:right;
+	margin-top:8px;
+}
+.ui-accordion-header-active .arrow-down {
+	width: 0; 
+	height: 0; 
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
+	
+	border-top: 10px solid #666;
+	float:right;
+	margin-top:8px;
+}
+.ft_calculator_wrap input[type="text"], .ft_calculator_wrap input[type="password"], .ft_calculator_wrap textarea {
+	-webkit-transition: all 0.30s ease-in-out;
+	-moz-transition: all 0.30s ease-in-out;
+	-ms-transition: all 0.30s ease-in-out;
+	-o-transition: all 0.30s ease-in-out;
+	outline: none;
+	padding: 5px 3px 5px 3px;
+	border: 1px solid #DDDDDD;
+}
+.ft_calculator_wrap input[type="text"]:focus, .ft_calculator_wrap input[type="password"]:focus, .ft_calculator_wrap textarea:focus { 
+	box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+	border: 1px solid rgba(81, 203, 238, 1);
+}
